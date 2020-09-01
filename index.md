@@ -3,4 +3,4 @@ is Remote Sensing + Artificial Intelligence
 
 Hello World!
 
-...and a link to [AIROBEST](https://github.com/aalto-cbir/AIROBEST)
+...and a link to [AIROBEST](https://sensillence.github.io/AIROBEST)
