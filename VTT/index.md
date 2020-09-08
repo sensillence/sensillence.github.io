@@ -8,6 +8,7 @@ and [Hyperspectral imaging](https://www.vttresearch.com/en/ourservices/hyperspec
 technologies at 
 [VTT Technical Research Centre of Finland](https://www.vtt.fi).
 
+![picture of view from aircraft]8https://github.com/sensillence/sensillence.github.io/blob/master/VTT/taevas_lennuk.jpg "Airborne IS acquisition")
 This research, led by [Matti Mõttus](https://cris.vtt.fi/en/persons/matti-mottus)
 has been funded by several research projects funded by the Academy of Finland:
 * SPYSTUF (2013-2018; at VTT 2016-2018, Imaging Spectroscopy for Linking Vegetation Structure and Functioning): Academy of Finland Research Fellow project (Matti Mõttus)
