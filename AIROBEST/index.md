@@ -18,6 +18,15 @@ We propose to use a well-validated physically-based forest reflectance model to 
 
 AIROBEST applies AI to facilitate the use of satellite data in global change studies as well as deepen the apprehension of AI methods in industry and society. The scientific goals of the project are to determine 1) the potential of modern AI algorithms in retrieving forest AGB from EO data; 2) the most suitable AI algorithm for performing such a retrieval; and 3) the required EO data characteristics (e.g. spectral and spatial resolutions) for a successful physically-based AI retrieval of forest structure and biomass.
 
+## Tools
+
+<p align="center">
+  <img src="./ellipsoidid_scaled.png" />
+  <img src="./frtman0902_scaled.png" />
+  <br> Geometric representation of forest as a collection of tree crowns; first-order scattering is numerically integrated over the crown volumes (from FRT manual by Kuusk and Nilson, 2002). 
+</p>
+
+
 ## Outcomes
 ### Code
 
