@@ -12,7 +12,7 @@ Artificial intelligence (AI) can overcome many of the shortcomings in existing e
 We propose to use a well-validated physically-based forest reflectance model to simulate the spectral reflectance factors of all possible European boreal forest canopies under different illumination conditions. We will use the simulated spectra and the corresponding AGB values to train AI algorithms such as Bayesian Convolutional Neural Network with Bernoulli Approximate Variational Inference. Once trained, we will apply these AI algorithms to optical EO data from Sweden, Finland, Estonia and Russia, and hyperspectral data from Finland. The AI retrieval results will be compared against forestry data from test sites in each of these regions.
 
 <p align="center">
-  <img src=AIROBEST_flow_scaled.png />
+  <img src="./AIROBEST_flow_scaled.png" />
 </p>
 
 
