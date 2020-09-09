@@ -9,7 +9,7 @@ technologies at
 [VTT Technical Research Centre of Finland](https://www.vtt.fi).
 
 <p align="center">
-  <img src=composite_1_scaled.png />
+  <img src="./composite_1_scaled.png" />
 </p>
 
 This research, led by [Matti Mõttus](https://cris.vtt.fi/en/persons/matti-mottus)
@@ -28,6 +28,5 @@ People involved in the research at VTT:
 * [Olli Ihalainen](https://cris.vtt.fi/en/persons/olli-ihalainen)
 
 
-<p align="center">
-  <img src=vaade_600pix.png />
-</p>
+![view from a plane during acquisitions](vaade_600pix.png)
+
