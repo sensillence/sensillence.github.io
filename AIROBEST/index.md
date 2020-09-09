@@ -2,7 +2,7 @@
 funded by the Academy of Finland (2018-2021)
 
 PIs: 
-* Matti Mõttus, VTT Technical ersearch Centre of Finland
+* Matti Mõttus, VTT Technical Research Centre of Finland
 * Jorma Laaksonen, Aalto University
 
 Timely and accurate information on forest above-ground biomass (AGB) is required for understanding carbon balance, future climate, the sustainability of current politics and the emerging bioeconomy. Optical Earth Observation (EO) in the visible to short infrared spectral region can contribute to this challenge. However, despite optimistic case studies, no global applications using optical EO for biomass retrieval have emerged. The volume of EO data is increasing exponentially and new instruments will measure with better spatial and spectral resolutions, calling for new processing algorithms.
@@ -12,3 +12,25 @@ Artificial intelligence (AI) can overcome many of the shortcomings in existing e
 We propose to use a well-validated physically-based forest reflectance model to simulate the spectral reflectance factors of all possible European boreal forest canopies under different illumination conditions. We will use the simulated spectra and the corresponding AGB values to train AI algorithms such as Bayesian Convolutional Neural Network with Bernoulli Approximate Variational Inference. Once trained, we will apply these AI algorithms to optical EO data from Sweden, Finland, Estonia and Russia, and hyperspectral data from Finland. The AI retrieval results will be compared against forestry data from test sites in each of these regions.
 
 AIROBEST applies AI to facilitate the use of satellite data in global change studies as well as deepen the apprehension of AI methods in industry and society. The scientific goals of the project are to determine 1) the potential of modern AI algorithms in retrieving forest AGB from EO data; 2) the most suitable AI algorithm for performing such a retrieval; and 3) the required EO data characteristics (e.g. spectral and spatial resolutions) for a successful physically-based AI retrieval of forest structure and biomass.
+
+## Outcomes
+### Code
+
+The code repository for AIROBEST is at [GitHub](/https://github.com/aalto-cbir/AIROBEST)
+
+### Publications
+Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2020) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). Manuscript in preparation.
+
+Markiet, V. & Mõttus, M. (2020). Estimation of boreal forest floor reflectance from airborne hyperspectral data. Remote Sensing of Environment, 249, 112018, doi: 10.1016/j.rse.2020.112018.
+
+Halme, E., Pellikka, P.K.E & Mõttus, M. (2019). Utility of hyperspectral compared to multispectral remote sensing data in estimating forest biomass and structure variables in Finnish boreal forest. International Journal of Applied Earth Observation and Geoinformation, 83, 101942, doi: 10.1016/j.jag.2019.101942
+
+Hernández-Clemente, R., Hornero, A., Mõttus, M., Peñuelas, J., González-Dugo, V., Jiménez, J.C., Suárez-Barranco, L., Alonso, L. & Zarco-Tejada P.J. (2019). Early diagnosis of vegetation health from high-resolution hyperspectral and thermal imagery. Lessons learned from empirical relationships and radiative transfer modelling. Current Forestry Reports, 5, 169–183, doi:10.1007/s40725-019-00096-1.
+
+Mõttus, M., Aragão, L., Bäck, J., Hernández-Clemente, R., Maeda, E.E., Markiet, V., Nichol, C.J., Oliveira, R.C.Jr., Restrepo-Coupe, N. (2019). Diurnal changes in leaf photochemical reflectance index in two evergreen forest canopies. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12, 2236–2243, doi: 10.1109/JSTARS.2019.2891789.
+
+Liu, W., Atherton, J. Mõttus, M., Gastellu-Etchegorry, J.-P., Malenovský, Z., Raumonen, P., Åkerblom, M., Mäkipää, R. & Porcar-Castell, A. (2019). Modelling chlorophyll fluorescence in a forest stand using terrestrial laser scanning and raytracing. Remote Sensing of Environment, in press, doi: 10.1016/j.rse.2019.111274.
+
+Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 6 pp., in press. (peer-reviewed conference publication, JUFO level 1) 
+
+
