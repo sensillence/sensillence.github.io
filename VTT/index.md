@@ -1,10 +1,5 @@
 # Hyperspectral vegetation analysis @VTT
 
-<figure>
-<img alt="[picture of aircraft @Hyytiälä]" src="https://sensillence.github.io/VTT/taevas_lennuk.jpg" width=180 ALIGN="left"/>
-<figcaption> test caption </figcaption>
-</figure>
-
 Hyperspectral remote sensing, or 
 (imaging spectroscopy)[https://en.wikipedia.org/wiki/Imaging_spectroscopy],
 is the application of spectroscopic techniques to remote sensing data. The research on imaging spectroscopy in the Remote Sensing team contributes to the
@@ -12,6 +7,8 @@ is the application of spectroscopic techniques to remote sensing data. The resea
 and [Hyperspectral imaging](https://www.vttresearch.com/en/ourservices/hyperspectral-technologies) 
 technologies at 
 [VTT Technical Research Centre of Finland](https://www.vtt.fi).
+
+!(composite_1.png)
 
 This research, led by [Matti Mõttus](https://cris.vtt.fi/en/persons/matti-mottus)
 has been funded by several research projects funded by the Academy of Finland:
@@ -27,3 +24,5 @@ People involved in the research at VTT:
 * Vincent Markiet
 * [Eelis Halme](https://cris.vtt.fi/en/persons/eelis-halme)
 * [Olli Ihalainen](https://cris.vtt.fi/en/persons/olli-ihalainen)
+
+!(vaade_100pix.png)
