@@ -8,5 +8,5 @@ is the combination Remote Sensing and Artificial Intelligence by [VTT physical r
 
 This is implemented in the [AIROBEST](https://sensillence.github.io/AIROBEST) project funded by the [Academy of Finland](https://www.aka.fi).
 
-Links to other resources by the Sensillence community:
+People involved in the research and links to other resources by the Sensillence community:
 * TBC...
