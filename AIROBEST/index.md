@@ -21,7 +21,7 @@ AIROBEST applies AI to facilitate the use of satellite data in global change stu
 ## Tools
 
 <p align="center">
-  <img src="./ellipsoidid_scaled.png" />
+  <img src="./ellipsoid_scaled.png" />
   <img src="./frtman0902_scaled.png" />
   <br> Geometric representation of forest as a collection of tree crowns; first-order scattering is numerically integrated over the crown volumes (from FRT manual by Kuusk and Nilson, 2002). 
 </p>
