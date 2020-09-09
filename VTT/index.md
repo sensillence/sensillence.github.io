@@ -1,6 +1,6 @@
 # Hyperspectral vegetation analysis @VTT
 
-<img alt="[picture of aircraft @Hyytiälä]" src="https://sensillence.github.io/VTT/taevas_lennuk.jpg" width=180 ALIGN="left"/>
+<img alt="[picture of aircraft @Hyytiälä]" src="https://sensillence.github.io/VTT/taevas_lennuk.jpg" width=180 ALIGN="left" figcap="test caption."/>
 
 Hyperspectral remote sensing, or 
 (imaging spectroscopy)[https://en.wikipedia.org/wiki/Imaging_spectroscopy],
