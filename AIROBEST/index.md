@@ -25,6 +25,7 @@ AIROBEST applies AI to facilitate the use of satellite data in global change stu
   <img src="./frtman0902_scaled.png" />
   <br> Geometric representation of forest as a collection of tree crowns; first-order scattering is numerically integrated over the crown volumes (from FRT manual by Kuusk and Nilson, 2002). 
 </p>
+The project uses the Forest Reflectance and Transmittance model by [Kuusk and Nilson (2000)[https://www.sciencedirect.com/science/article/abs/pii/S003442579900111X] from Tartu Observatory, parameterized with forest optical properties measured in Finland ([Hovi et al., 2017])[https://www.silvafennica.fi/article/7753]. The model, written in Fortran77, has been well tested (e.g., in the [RAMI initiative](https://rami-benchmark.jrc.ec.europa.eu/)) and proven to describe adequately the boreal and hemiboreal forests analyzed in the study. During the project, the code will be modified to be callable as a python library and published online.
 
 
 ## Outcomes
