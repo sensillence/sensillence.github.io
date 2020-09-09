@@ -1,5 +1,5 @@
 # AIROBEST project
-funded by the Academy of Finland (2018-2021). Principal investigators
+*Artificial Intelligence for Retrieval of Forest Biomass & Structure*, funded by the [Academy of Finland](https://www.aka.fi/) program program Novel Applications of Artificial Intelligence in Physical Sciences and Engineering Research (AIPSE) (2018-2021). Principal investigators
 
 * [Matti Mõttus, VTT Technical Research Centre of Finland](https://sensillence.github.io/VTT/)
 * Jorma Laaksonen, Aalto University
