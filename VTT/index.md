@@ -27,6 +27,7 @@ People involved in the research at VTT:
 * [Eelis Halme](https://cris.vtt.fi/en/persons/eelis-halme)
 * [Olli Ihalainen](https://cris.vtt.fi/en/persons/olli-ihalainen)
 
-<p style="text-align: center;">
+<center>
 ![view from aircraft](vaade_600pix.png)
-</p>
+</center>
+
