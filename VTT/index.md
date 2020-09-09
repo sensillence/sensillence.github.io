@@ -1,7 +1,7 @@
 # Hyperspectral vegetation analysis @VTT
 
 Hyperspectral remote sensing, or 
-(imaging spectroscopy)[https://en.wikipedia.org/wiki/Imaging_spectroscopy],
+[imaging spectroscopy](https://en.wikipedia.org/wiki/Imaging_spectroscopy),
 is the application of spectroscopic techniques to remote sensing data. The research on imaging spectroscopy in the Remote Sensing team contributes to the
 [Space technology](https://www.vttresearch.com/en/ourservices/space-technology) 
 and [Hyperspectral imaging](https://www.vttresearch.com/en/ourservices/hyperspectral-technologies) 
@@ -27,6 +27,7 @@ People involved in the research at VTT:
 * [Eelis Halme](https://cris.vtt.fi/en/persons/eelis-halme)
 * [Olli Ihalainen](https://cris.vtt.fi/en/persons/olli-ihalainen)
 
-
-![view from a plane during acquisitions](vaade_600pix.png)
+<p align="center">
+  <img src="./vaade_600pix.png" />
+</p>
 
