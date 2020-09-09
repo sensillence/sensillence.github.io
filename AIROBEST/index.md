@@ -2,7 +2,7 @@
 *Artificial Intelligence for Retrieval of Forest Biomass & Structure*, funded by the [Academy of Finland](https://www.aka.fi/) program program Novel Applications of Artificial Intelligence in Physical Sciences and Engineering Research (AIPSE) (2018-2021). Principal investigators
 
 * [Matti Mõttus, VTT Technical Research Centre of Finland](https://sensillence.github.io/VTT/)
-* Jorma Laaksonen, Aalto University
+* [Jorma Laaksonen](https://people.aalto.fi/jorma.laaksonen), Aalto University
 
 Timely and accurate information on forest above-ground biomass (AGB) is required for understanding carbon balance, future climate, the sustainability of current politics and the emerging bioeconomy. Optical Earth Observation (EO) in the visible to short infrared spectral region can contribute to this challenge. However, despite optimistic case studies, no global applications using optical EO for biomass retrieval have emerged. The volume of EO data is increasing exponentially and new instruments will measure with better spatial and spectral resolutions, calling for new processing algorithms.
 
