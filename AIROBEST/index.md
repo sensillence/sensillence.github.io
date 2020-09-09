@@ -1,7 +1,6 @@
 # AIROBEST project
-funded by the Academy of Finland (2018-2021)
+funded by the Academy of Finland (2018-2021). Principal investigators
 
-PIs: 
 * [Matti Mõttus, VTT Technical Research Centre of Finland](https://sensillence.github.io/VTT/)
 * Jorma Laaksonen, Aalto University
 
