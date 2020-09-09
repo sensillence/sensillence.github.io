@@ -8,7 +8,9 @@ and [Hyperspectral imaging](https://www.vttresearch.com/en/ourservices/hyperspec
 technologies at 
 [VTT Technical Research Centre of Finland](https://www.vtt.fi).
 
-![hyperspectral acquisition and processing](composite_1_scaled.png)
+<p align="center">
+  <img src=composite_1_scaled.png />
+</p>
 
 This research, led by [Matti Mõttus](https://cris.vtt.fi/en/persons/matti-mottus)
 has been funded by several research projects funded by the Academy of Finland:
@@ -25,10 +27,7 @@ People involved in the research at VTT:
 * [Eelis Halme](https://cris.vtt.fi/en/persons/eelis-halme)
 * [Olli Ihalainen](https://cris.vtt.fi/en/persons/olli-ihalainen)
 
-<center>
-![view from aircraft](vaade_600pix.png)
-</center>
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src=vaade_600pix.png />
 </p>
