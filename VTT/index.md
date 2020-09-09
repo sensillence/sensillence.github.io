@@ -12,6 +12,8 @@ technologies at
   <img src="./composite_1_scaled.png" />
 </p>
 
+We believe that physical radiative transfer models and new insights into theory of radiative transfer (e.g., the [spectral invariants](https://www.sciencedirect.com/science/article/abs/pii/S0034425716302140)) is the best option to reveal the full information content of hyperspectral data.
+
 This research, led by [Matti Mõttus](https://cris.vtt.fi/en/persons/matti-mottus)
 has been funded by several research projects funded by the Academy of Finland:
 * SPYSTUF (2013-2018; at VTT 2016-2018, Imaging Spectroscopy for Linking Vegetation Structure and Functioning): Academy of Finland Research Fellow project (Matti Mõttus)
