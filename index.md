@@ -8,5 +8,8 @@ is the combination Remote Sensing and Artificial Intelligence by [VTT physical r
 
 This is implemented in the [AIROBEST](https://sensillence.github.io/AIROBEST) project funded by the [Academy of Finland](https://www.aka.fi).
 
-People involved in the research and links to other resources by the Sensillence community:
-* TBC...
+The people involved in Sensillence community are listed under the groups and teams participating the project. As the page is being updated, the list is not complete yet.
+
+News:
+
+* [VTT creating digital forest twin for European Space Agency](https://www.goodnewsfinland.com/vtt-creating-digital-forest-twin-for-european-space-agency/)
