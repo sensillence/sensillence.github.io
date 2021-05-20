@@ -31,7 +31,7 @@ The project uses the Forest Reflectance and Transmittance model by [Kuusk and Ni
 ## Outcomes
 ### Code
 
-The code repository for AIROBEST is at [GitHub](/https://github.com/aalto-cbir/AIROBEST)
+The code repository for AIROBEST is at [GitHub](https://github.com/aalto-cbir/AIROBEST)
 
 ### Publications
 Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2020) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). Manuscript in preparation.
