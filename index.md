@@ -6,9 +6,7 @@ is the combination Remote Sensing and Artificial Intelligence by [VTT physical r
   <img src="./AIROBEST/AIROBEST_flow_scaled.png" />
 </p>
 
-This is implemented in the [AIROBEST](https://sensillence.github.io/AIROBEST) project funded by the [Academy of Finland](https://www.aka.fi).
-
-Please see the individual grup descriptios to find out who make up the Sensillence community.
+Please see the individual group descriptios to find out who make up the Sensillence community.
 
 News:
 
