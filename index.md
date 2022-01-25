@@ -8,7 +8,7 @@ is the combination Remote Sensing and Artificial Intelligence by [VTT physical r
 
 This is implemented in the [AIROBEST](https://sensillence.github.io/AIROBEST) project funded by the [Academy of Finland](https://www.aka.fi).
 
-The people involved in Sensillence community are listed under the groups and teams participating the project. As the page is being updated, the list is not complete yet.
+Please see the individual grup descriptios to find out who make up the Sensillence community.
 
 News:
 
