@@ -17,4 +17,4 @@ News:
 * [AIROBEST](https://sensillence.github.io/AIROBEST) project extended by one year due to covid, to end on 31 December 2022.
 * Two hyperspectral datasets available: [SPYSTUF](https://ieee-dataport.org/open-access/spystuf-hyperspectral-data) and [TAIGA](https://etsin.fairdata.fi/dataset/9d0e89aa-f81f-458d-a657-3f02edf9e61b) under the Creative Commons license.
 * [VTT creating digital forest twin for European Space Agency](https://www.goodnewsfinland.com/vtt-creating-digital-forest-twin-for-european-space-agency/)
-* [Academy of Finland](https://www.aka.fi) funding for the project <i>Artificial Intelligence for Retrieval of Forest Biomass & Structure</i> [AIROBEST](https://sensillence.github.io/AIROBEST) for 2018-2020.
+* [Academy of Finland](https://www.aka.fi) funding for the project <i>Artificial Intelligence for Retrieval of Forest Biomass & Structure</i> [(AIROBEST)](https://sensillence.github.io/AIROBEST) for 2018-2020.
