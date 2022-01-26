@@ -44,7 +44,7 @@ Halme, E., Ihalainen, O., Korpela, I. & Mõttus, M. (2022) Assessing spatial var
 
 Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2022) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). IEEE Transactions on Geoscience and Remote Sensing, doi:[10.1109/TGRS.2022.3141217](https://dx.doi.org/10.1109/TGRS.2022.3141217).
 
-Mõttus, M., Molinier, M., Halme, E., Cu, H., Laaksonen, J. (2021). Patch size selection for analysis of sub-meter resolution hyperspectral imagery of forests. 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, July 11–16, pp. 2035-2038, doi:[10.1109/IGARSS47720.2021.9554257](https://dx.doi.org/10.1109/IGARSS47720.2021.9554257).
+Mõttus, M., Molinier, M., Halme, E., Cu, H., Laaksonen, J. (2021). Patch size selection for analysis of sub-meter resolution hyperspectral imagery of forests. 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, July 11–16, 2035-2038, doi:[10.1109/IGARSS47720.2021.9554257](https://dx.doi.org/10.1109/IGARSS47720.2021.9554257).
 
 Markiet, V. & Mõttus, M. (2020). Estimation of boreal forest floor reflectance from airborne hyperspectral data. Remote Sensing of Environment, 249, 112018, doi:[10.1016/j.rse.2020.112018](https://dx.doi.org/10.1016/j.rse.2020.112018).
 
@@ -56,6 +56,6 @@ Mõttus, M., Aragão, L., Bäck, J., Hernández-Clemente, R., Maeda, E.E., Marki
 
 Liu, W., Atherton, J. Mõttus, M., Gastellu-Etchegorry, J.-P., Malenovský, Z., Raumonen, P., Åkerblom, M., Mäkipää, R. & Porcar-Castell, A. (2019). Modelling chlorophyll fluorescence in a forest stand using terrestrial laser scanning and raytracing. Remote Sensing of Environment, 232, 111274, doi:[10.1016/j.rse.2019.111274](https://dx.doi.org/10.1016/j.rse.2019.111274).
 
-Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 6 pp., in press. (peer-reviewed conference publication, JUFO level 1) doi:[10.1109/IGARSS.2019.8900328](https://dx.doi.org/10.1109/IGARSS.2019.8900328)
+Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 5049-5052, doi:[10.1109/IGARSS.2019.8900328](https://dx.doi.org/10.1109/IGARSS.2019.8900328)
 
 
