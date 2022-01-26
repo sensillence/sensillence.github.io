@@ -34,7 +34,11 @@ The project uses the Forest Reflectance and Transmittance model by [Kuusk and Ni
 The code repository for AIROBEST is at [GitHub](https://github.com/aalto-cbir/AIROBEST)
 
 ### Publications
-Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2020) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). Manuscript in preparation.
+Halme, E., Ihalainen, O., Korpela, I. & Mõttus, M. (2022) Assessing spatial variability and estimating mean crown diameter in boreal forests using variograms and amplitude spectra of very-high-resolution remote sensing data, International Journal of Remote Sensing, 43, 349-369, doi:10.1080/01431161.2021.2018148
+
+Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2022) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2022.3141217.
+
+Mõttus, M., Molinier, M., Halme, E., Cu, H., Laaksonen, J. (2021). Patch size selection for analysis of sub-meter resolution hyperspectral imagery of forests. 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, July 11–16, pp. 2035-2038, doi:10.1109/IGARSS47720.2021.9554257.
 
 Markiet, V. & Mõttus, M. (2020). Estimation of boreal forest floor reflectance from airborne hyperspectral data. Remote Sensing of Environment, 249, 112018, doi: 10.1016/j.rse.2020.112018.
 
