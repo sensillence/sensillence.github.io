@@ -31,21 +31,31 @@ The project uses the Forest Reflectance and Transmittance model by [Kuusk and Ni
 ## Outcomes
 ### Code
 
-The code repository for AIROBEST is at [GitHub](/https://github.com/aalto-cbir/AIROBEST)
+The code repository for AIROBEST is at [GitHub](https://github.com/aalto-cbir/AIROBEST)
+
+### Datasets
+Mõttus, M., Markiet, V., Hernandez-Clemente, R., Perheentupa, V., & Majasalmi, T. (2021). SPYSTUF hyperspectral data. Dataset, https://ieee-dataport.org/open-access/spystuf-hyperspectral-data, doi:[10.21227/v5vh-2816](https://dx.doi.org/10.21227/v5vh-2816)  License: CC BY 4.0
+
+Mõttus, M., Cu, H., Halme, E., Laaksonen, J.,  Molinier, M., & Pham, P. (2021). The Artificial Intelligence dataset for forest Geographical Applications (TAIGA). Dataset, doi:[10.23729/fe7ce882-8125-44e7-b0cf-ae652d7ed0d5](https://dx.doi.org/10.23729/fe7ce882-8125-44e7-b0cf-ae652d7ed0d5). License: CC BY 4.0 
+
 
 ### Publications
-Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2020) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). Manuscript in preparation.
+Halme, E., Ihalainen, O., Korpela, I. & Mõttus, M. (2022) Assessing spatial variability and estimating mean crown diameter in boreal forests using variograms and amplitude spectra of very-high-resolution remote sensing data, International Journal of Remote Sensing, 43, 349-369, doi:[10.1080/01431161.2021.2018148](https://dx.doi.org/10.1080/01431161.2021.2018148).
 
-Markiet, V. & Mõttus, M. (2020). Estimation of boreal forest floor reflectance from airborne hyperspectral data. Remote Sensing of Environment, 249, 112018, doi: 10.1016/j.rse.2020.112018.
+Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2022) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). IEEE Transactions on Geoscience and Remote Sensing, doi:[10.1109/TGRS.2022.3141217](https://dx.doi.org/10.1109/TGRS.2022.3141217).
 
-Halme, E., Pellikka, P.K.E & Mõttus, M. (2019). Utility of hyperspectral compared to multispectral remote sensing data in estimating forest biomass and structure variables in Finnish boreal forest. International Journal of Applied Earth Observation and Geoinformation, 83, 101942, doi: 10.1016/j.jag.2019.101942
+Mõttus, M., Molinier, M., Halme, E., Cu, H., Laaksonen, J. (2021). Patch size selection for analysis of sub-meter resolution hyperspectral imagery of forests. 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, July 11–16, 2035-2038, doi:[10.1109/IGARSS47720.2021.9554257](https://dx.doi.org/10.1109/IGARSS47720.2021.9554257).
 
-Hernández-Clemente, R., Hornero, A., Mõttus, M., Peñuelas, J., González-Dugo, V., Jiménez, J.C., Suárez-Barranco, L., Alonso, L. & Zarco-Tejada P.J. (2019). Early diagnosis of vegetation health from high-resolution hyperspectral and thermal imagery. Lessons learned from empirical relationships and radiative transfer modelling. Current Forestry Reports, 5, 169–183, doi:10.1007/s40725-019-00096-1.
+Markiet, V. & Mõttus, M. (2020). Estimation of boreal forest floor reflectance from airborne hyperspectral data. Remote Sensing of Environment, 249, 112018, doi:[10.1016/j.rse.2020.112018](https://dx.doi.org/10.1016/j.rse.2020.112018).
 
-Mõttus, M., Aragão, L., Bäck, J., Hernández-Clemente, R., Maeda, E.E., Markiet, V., Nichol, C.J., Oliveira, R.C.Jr., Restrepo-Coupe, N. (2019). Diurnal changes in leaf photochemical reflectance index in two evergreen forest canopies. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12, 2236–2243, doi: 10.1109/JSTARS.2019.2891789.
+Halme, E., Pellikka, P.K.E & Mõttus, M. (2019). Utility of hyperspectral compared to multispectral remote sensing data in estimating forest biomass and structure variables in Finnish boreal forest. International Journal of Applied Earth Observation and Geoinformation, 83, 101942, doi:[10.1016/j.jag.2019.101942](https://dx.doi.org/10.1016/j.jag.2019.101942).
 
-Liu, W., Atherton, J. Mõttus, M., Gastellu-Etchegorry, J.-P., Malenovský, Z., Raumonen, P., Åkerblom, M., Mäkipää, R. & Porcar-Castell, A. (2019). Modelling chlorophyll fluorescence in a forest stand using terrestrial laser scanning and raytracing. Remote Sensing of Environment, in press, doi: 10.1016/j.rse.2019.111274.
+Hernández-Clemente, R., Hornero, A., Mõttus, M., Peñuelas, J., González-Dugo, V., Jiménez, J.C., Suárez-Barranco, L., Alonso, L. & Zarco-Tejada P.J. (2019). Early diagnosis of vegetation health from high-resolution hyperspectral and thermal imagery. Lessons learned from empirical relationships and radiative transfer modelling. Current Forestry Reports, 5, 169–183, doi:[10.1007/s40725-019-00096-1](https://dx.doi.org/10.1007/s40725-019-00096-1).
 
-Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 6 pp., in press. (peer-reviewed conference publication, JUFO level 1) 
+Mõttus, M., Aragão, L., Bäck, J., Hernández-Clemente, R., Maeda, E.E., Markiet, V., Nichol, C.J., Oliveira, R.C.Jr., Restrepo-Coupe, N. (2019). Diurnal changes in leaf photochemical reflectance index in two evergreen forest canopies. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12, 2236–2243, doi:[10.1109/JSTARS.2019.2891789](https://dx.doi.org/10.1109/JSTARS.2019.2891789).
+
+Liu, W., Atherton, J. Mõttus, M., Gastellu-Etchegorry, J.-P., Malenovský, Z., Raumonen, P., Åkerblom, M., Mäkipää, R. & Porcar-Castell, A. (2019). Modelling chlorophyll fluorescence in a forest stand using terrestrial laser scanning and raytracing. Remote Sensing of Environment, 232, 111274, doi:[10.1016/j.rse.2019.111274](https://dx.doi.org/10.1016/j.rse.2019.111274).
+
+Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 5049-5052, doi:[10.1109/IGARSS.2019.8900328](https://dx.doi.org/10.1109/IGARSS.2019.8900328)
 
 
