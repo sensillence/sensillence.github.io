@@ -1,6 +1,8 @@
 # Sensillence
 
-is the combination Remote Sensing and Artificial Intelligence by [VTT physical remote sensing researchers](./VTT) and Aalto University Department of Computer science. The scientific collaboration is funded by externel projects such as ARTISDIG and [AIROBEST](https://sensillence.github.io/AIROBEST).
+is the combination Remote Sensing and Artificial Intelligence by [VTT physical remote sensing researchers](https://sensillence.github.io/VTT)
+and Aalto University Department of Computer science. The scientific collaboration is funded by externel projects such as 
+[AIROBEST](https://sensillence.github.io/AIROBEST) and [ARTISDIG](https://sensillence.github.io/ARTISDIG).
 
 <p align="center">
   <img src="./AIROBEST/AIROBEST_flow_scaled.png" />
