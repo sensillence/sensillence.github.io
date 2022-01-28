@@ -34,7 +34,7 @@ the Earth’s forests, capturing their diversity, growth and productivity. This 
 integrate boreal forest biodiversity in the Digital Twin Earth.
 
 <p align="center">
-  <img src="./AIROBEST_flow_scaled.png" />
+  <img src="./ARTISDIG.png" />
 </p>
 
 
