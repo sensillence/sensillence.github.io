@@ -34,7 +34,7 @@ the Earth’s forests, capturing their diversity, growth and productivity. This 
 integrate boreal forest biodiversity in the Digital Twin Earth.
 
 <p align="center">
-  <img src="./ARTISDIG.png" />
+  <img src="./ARTISDIG.png" width=750 />
 </p>
 
 ARTISDIG will develop novel methods to quantify and monitor forests’ structural and spectral variation by applying AI-based
