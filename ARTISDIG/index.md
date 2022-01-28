@@ -10,7 +10,7 @@ The principal investigators  in the consortium implementing the consortium are
 * [Mari Myllymäki](https://www.luke.fi/henkilosto/mari-myllymaki/), [Natural Resources Institute Finland (Luke)](https://www.luke.fi/en)
 * [Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen), [Aalto University](https://www.aalto.fi/en)
 
-# Research goals in brief (to be edited)
+# Research goals in brief
 
 The overall objective of ARTISDIG is to develop, implement and demonstrate the Earth 
 observation and Earth system science required to integrate boreal forest biodiversity in the
@@ -37,7 +37,6 @@ integrate boreal forest biodiversity in the Digital Twin Earth.
   <img src="./ARTISDIG.png" />
 </p>
 
-
 ARTISDIG will develop novel methods to quantify and monitor forests’ structural and spectral variation by applying AI-based
 algorithms to interpret EO data. We will combine physical and AI models, which has
 recently gathered attention in the EO community, and which has been acknowledged to be a significant scientific challenge in the
@@ -45,7 +44,8 @@ forthcoming years. The new methods are designed to make full use of future satel
 spectral and spatial resolutions. Results from ARTISDIG will enable to understand the effects of forest management policies in a
 changing climate at a high spatial resolution relevant to forest stakeholders.
 
-
-
 The ARTISDIG project is funded by the program *Key Areas of Green and Digital Transition* connected with  European Union’s
 Recovery and Resilience Facility (RRF) and Finland’s Sustainable Growth Programme and targets the dual green and digital transition of the society.
+
+# Outcomes
+* the resulting papers, datasets and code will be listed here
