@@ -17,8 +17,9 @@ We believe that physical radiative transfer models and new insights into theory 
 This research, led by [Matti Mõttus](https://cris.vtt.fi/en/persons/matti-mottus)
 has been funded by several research projects funded by the Academy of Finland:
 * SPYSTUF (2013-2018; at VTT 2016-2018, Imaging Spectroscopy for Linking Vegetation Structure and Functioning): Academy of Finland Research Fellow project (Matti Mõttus)
-* [AIROBEST](https://sensillence.github.io/AIROBEST/) (Artificial Intelligence for Retrieval of Forest Biomass & Structure, 2018-2021)
+* [AIROBEST](https://sensillence.github.io/AIROBEST/) (Artificial Intelligence for Retrieval of Forest Biomass & Structure, 2018-2022)
 * REFORMERS (RadiativE theory and models FOR sub-MEter Resolution Sensors, 2019-2023)
+* [ARTISDIG](https://sensillence.github.io/ARTISDIG) (Artificial Intelligence for Twinning the Diversity, Productivity and Spectral Signature of Forests, 2022-2024)
 
 Matti Mõttus is a member of the Mission Advisory Group for ESA’s [FLEX](https://esa.int/flex) satellite mission and an official collaborator on 
 [EPIC DSCOVR](https://epic.gsfc.nasa.gov/) vegetation products developed by Boston University.
