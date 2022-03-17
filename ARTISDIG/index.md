@@ -50,24 +50,31 @@ Recovery and Resilience Facility (RRF) and Finland’s Sustainable Growth Progra
 # Work packages
 
 ## Work Package 1: Forest tree species and structural diversity
-PI: Mari Myllymäki (Luke)
 *Goal: To quantify the tree species and structural diversity of forests.*
+
+PI: Mari Myllymäki (Luke)
+
 We will utilize different types of measures of forest diversity based on Airborne Laser Scanning (ALS) to quantify canopy structure and link it with forest (bio)diversity, quantified with its species diversity, variaton in tree size and spatial distribution. Field plot data will be used to determine site structural diversity, fertility and tree species richness. We will determine the spectrally separable classes in hyperspectral data and compare it against the simulated spectral diversity obtained in WP 2.
 
 ## Work Package 2. Forest spectral diversity
 *Goal: To characterize the diversity of spectral signatures of boreal forests caused by 1) variation in forest structure (WP1), and 2) variation in spectral properties of forest elements.*
+
 PI: Miina Rautiainen (Aalto University)
+
 If the spectral properties of forest elements, forest structure and tree distribution pattern are known, the spectral signature of a forest can be simulated using a physically-based model with reasonable accuracy. The existing spectral libraries are based on limited samples for each of the represented species, leading to a large uncertainty in the estimate of the natural variation in spectral properties. We therefore will measure a more representative sample of the key overstory species relevant not only for forest carbon production, but also for boreal forest biodiversity (incl. aspen, ash, etc.) at peak growing season. Using the FRT forest reflectance model, we will the quantify the separability of the dfferent species and structurally different forests using classification tools typical of hyperspectral EO data, e.g. support vector machine and random forest. 
 
 ## Work Package 3. AI tools for mapping tree species and biodiversity
 *Goal: To create an AI-based image analysis system, which can use future hyperspectral and high resolution optical imagery for assessing forest biomass, tree species and biodiversity.*
+
 PI: Jorma Laaksonen (Aalto Unversity)
-Modern AI-based methods work well for forest parameter retrieval in the boreal region and can utilize hyperspectral and very high resolution imagery. In contrast to traditional wellestablished global EO algorithms for vegetation biophysical properties, which rely on pixelbased retrieval, the novel and forthcoming AI
-tools are image-based, i.e., they make use of the structural information in the imagery. We will create an algorithm for estimating forest (bio)diversity using heterogeneous EO data inputs. The optimal input data, Very High Resolution (VHR) airborne hyperspectral imagery, will be used for developing the algorithms. As these data are not expected to be available for large geographic areas, the methods will be tested with combinations of hyperspectral 30 m imagery, multispectral 5 m imagery, and panchromatic “black-and-white” VHR (pixel <1 m imagery).
+
+Modern AI-based methods work well for forest parameter retrieval in the boreal region and can utilize hyperspectral and very high resolution imagery. In contrast to traditional wellestablished global EO algorithms for vegetation biophysical properties, which rely on pixelbased retrieval, the novel and forthcoming AI tools are image-based, i.e., they make use of the structural information in the imagery. We will create an algorithm for estimating forest (bio)diversity using heterogeneous EO data inputs. The optimal input data, Very High Resolution (VHR) airborne hyperspectral imagery, will be used for developing the algorithms. As these data are not expected to be available for large geographic areas, the methods will be tested with combinations of hyperspectral 30 m imagery, multispectral 5 m imagery, and panchromatic “black-and-white” VHR (pixel <1 m imagery).
 
 ## Work Package 4. AI simulator for forest productivity and growth
 *Goal: To develop an AI emulator of the models of forest structure, productivity, growth and reflectance for Digital Twin Earth. To use the emulator for modeling the effect of diversity on productivity.*
+
 PI: Matti Mõttus (VTT)
+
 The current implementation of Forest DTE Precursor contains the forest productivity model Preles (which computing gross primary production), coupled with a growth model CROBAS (which computes autotrophic respiration and litter production), called together PreBas. Soil processes are accounted for using the YASSO soil model. The key input variables for the models are basic forestry variables (incl. main tree species and site fertility), daily temperature, water vapor pressure deficit, photosynthetic photon flux density and precipitation (mm). The final goal of ARTISDIG is to integrate the results of the first three WPs into the digital twin infrastructure, allowing spatially explicit determination of forest diversity and its effect on forest functioning ond productivity. To improve processing speed, the existing modeling chain will be replaced with an AI-based emulator tool, allowing to implement the computations quickly for a large geographic area at high spatial resolution.
 
 # Outcomes
