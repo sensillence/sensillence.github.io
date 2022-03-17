@@ -57,7 +57,7 @@ PI: Mari Myllymäki (Luke)
 We will utilize different types of measures of forest diversity based on Airborne Laser Scanning (ALS) to quantify canopy structure and link it with forest (bio)diversity, quantified with its species diversity, variaton in tree size and spatial distribution. Field plot data will be used to determine site structural diversity, fertility and tree species richness. We will determine the spectrally separable classes in hyperspectral data and compare it against the simulated spectral diversity obtained in WP 2.
 
 ## Work Package 2. Forest spectral diversity
-*Goal: To characterize the diversity of spectral signatures of boreal forests caused by 1) variation in forest structure (WP1), and 2) variation in spectral properties of forest elements.*
+*Goal: To characterize the diversity of spectral signatures of boreal forests caused by 1) variation in forest structure, and 2) variation in spectral properties of forest elements.*
 
 PI: Miina Rautiainen (Aalto University)
 
