@@ -47,3 +47,11 @@ changing climate at a high spatial resolution relevant to forest stakeholders.
 The ARTISDIG project is funded by the program *Key Areas of Green and Digital Transition* connected with  European Union’s
 Recovery and Resilience Facility (RRF) and Finland’s Sustainable Growth Programme and targets the dual green and digital transition of the society.
 
+# Work packages
+
+## Work Package 1: Forest tree species and structural diversity
+*Goal: To quantify the tree species and structural diversity of forests.*
+
+PI: Mari Myllymäki (Natural Resources Institute Finland, Luke)
+
+We will utilize different types of measures of forest diversity based on Airborne Laser Scanning (ALS) to quantify canopy structure and link it with forest (bio)diversity, quantified with its species diversity, variaton in tree size and spatial distribution. Field plot data will be used to determine site structural diversity, fertility and tree species richness. We will determine the spectrally separable classes in hyperspectral data and compare it against the simulated spectral diversity obtained in WP 2.
