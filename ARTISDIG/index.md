@@ -55,3 +55,11 @@ Recovery and Resilience Facility (RRF) and Finland’s Sustainable Growth Progra
 PI: Mari Myllymäki (Natural Resources Institute Finland, Luke)
 
 We will utilize different types of measures of forest diversity based on Airborne Laser Scanning (ALS) to quantify canopy structure and link it with forest (bio)diversity, quantified with its species diversity, variaton in tree size and spatial distribution. Field plot data will be used to determine site structural diversity, fertility and tree species richness. We will determine the spectrally separable classes in hyperspectral data and compare it against the simulated spectral diversity obtained in WP 2.
+
+## Work Package 2. Forest spectral diversity
+*Goal: To characterize the diversity of spectral signatures of boreal forests caused by 1) variation in forest structure, and 2) variation in spectral properties of forest elements.*
+
+PI: Miina Rautiainen (Aalto University)
+
+If the spectral properties of forest elements, forest structure and tree distribution pattern are known, the spectral signature of a forest can be simulated using a physically-based model with reasonable accuracy. The existing spectral libraries are based on limited samples for each of the represented species, leading to a large uncertainty in the estimate of the natural variation in spectral properties. We therefore will measure a more representative sample of the key overstory species relevant not only for forest carbon production, but also for boreal forest biodiversity (incl. aspen, ash, etc.) at peak growing season. Using the FRT forest reflectance model, we will the quantify the separability of the dfferent species and structurally different forests using classification tools typical of hyperspectral EO data, e.g. support vector machine and random forest. 
+
