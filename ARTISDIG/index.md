@@ -63,3 +63,13 @@ PI: Miina Rautiainen (Aalto University)
 
 If the spectral properties of forest elements, forest structure and tree distribution pattern are known, the spectral signature of a forest can be simulated using a physically-based model with reasonable accuracy. The existing spectral libraries are based on limited samples for each of the represented species, leading to a large uncertainty in the estimate of the natural variation in spectral properties. We therefore will measure a more representative sample of the key overstory species relevant not only for forest carbon production, but also for boreal forest biodiversity (incl. aspen, ash, etc.) at peak growing season. Using the FRT forest reflectance model, we will the quantify the separability of the dfferent species and structurally different forests using classification tools typical of hyperspectral EO data, e.g. support vector machine and random forest. 
 
+## Work Package 3. AI tools for mapping tree species and biodiversity
+*Goal: To create an AI-based image analysis system, which can use future hyperspectral and high resolution optical imagery for assessing forest biomass, tree species and biodiversity.*
+
+PI: Jorma Laaksonen (Aalto Unversity)
+
+Modern AI-based methods work well for forest parameter retrieval in the boreal region and can utilize hyperspectral and very high resolution imagery. In contrast to traditional wellestablished global EO algorithms for vegetation biophysical properties, which rely on pixelbased retrieval, the novel and forthcoming AI tools are image-based, i.e., they make use of the structural information in the imagery. We will create an algorithm for estimating forest (bio)diversity using heterogeneous EO data inputs. The optimal input data, Very High Resolution (VHR) airborne hyperspectral imagery, will be used for developing the algorithms. As these data are not expected to be available for large geographic areas, the methods will be tested with combinations of hyperspectral 30 m imagery, multispectral 5 m imagery, and panchromatic “black-and-white” VHR (pixel <1 m imagery).
+
+## Work Package 4. AI simulator for forest productivity and growth
+*Goal: To develop an AI emulator of the models of forest structure, productivity, growth and reflectance for Digital Twin Earth. To use the emulator for modeling the effect of diversity on productivity.*
+
