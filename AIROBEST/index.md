@@ -64,11 +64,11 @@ Anwer, R. M., Khan, F. S., van de Weijer, J., Laaksonen, J. & Molinier, M. (2018
 
 ### Degrees
 
-Halme, E. (2018) Utility of remotely sensed spectral information in forest variable estimation. urn:[NBN:fi:aalto-201812146554](http://urn.fi/URN:NBN:fi:aalto-201812146554)
+Halme, E. (2018) Utility of remotely sensed spectral information in forest variable estimation. Master of Science in Technology at Aalto University School of Engineering, Espoo, Finland. urn:[NBN:fi:aalto-201812146554](http://urn.fi/URN:NBN:fi:aalto-201812146554)
 
-Pham, P. (2019) Deep learning methods for modelling forest biomass and structures from hyperspectral imagery. urn:[NBN:fi:aalto-201906234142](http://urn.fi/URN:NBN:fi:aalto-201906234142)
+Pham, P. (2019) Deep learning methods for modelling forest biomass and structures from hyperspectral imagery. Master of Science in Technology at Aalto University School of Science, Espoo, Finland. urn:[NBN:fi:aalto-201906234142](http://urn.fi/URN:NBN:fi:aalto-201906234142)
 
-Cu, T. (2021) Prediction of forest variables and its reliability with a hyperspectral deep learning model. urn:[NBN:fi:aalto-202108298608](http://urn.fi/URN:NBN:fi:aalto-202108298608)
+Cu, T. (2021) Prediction of forest variables and its reliability with a hyperspectral deep learning model. Master of Science in Technology at Aalto University School of Science, Espoo, Finland. urn:[NBN:fi:aalto-202108298608](http://urn.fi/URN:NBN:fi:aalto-202108298608)
 
-Bin Shafaat, A. (2021) Data-Efficient Vision Transformer for modeling forest biomass and tree structures from hyperspectral imagery. urn:[NBN:fi:aalto-202110249767](http://urn.fi/URN:NBN:fi:aalto-202110249767)
+Bin Shafaat, A. (2021) Data-Efficient Vision Transformer for modeling forest biomass and tree structures from hyperspectral imagery. Master of Science in Technology at Aalto University School of Science, Espoo, Finland. urn:[NBN:fi:aalto-202110249767](http://urn.fi/URN:NBN:fi:aalto-202110249767)
 
