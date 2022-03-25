@@ -61,3 +61,14 @@ Liu, W., Atherton, J. Mõttus, M., Gastellu-Etchegorry, J.-P., Malenovský, Z., 
 Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 5049-5052, doi:[10.1109/IGARSS.2019.8900328](https://dx.doi.org/10.1109/IGARSS.2019.8900328)
 
 Anwer, R. M., Khan, F. S., van de Weijer, J., Laaksonen, J. & Molinier, M. (2018) Binary Patterns Encoded Convolutional Neural Networks for Texture Recognition and Remote Sensing Scene Classification. ISPRS Journal of Photogrammetry and Remote Sensing, 138, 74–85, doi:[10.1016/j.isprsjprs.2018.01.023](https://doi.org/10.1016/j.isprsjprs.2018.01.023).
+
+### Degrees
+
+Halme, E. (2018) Utility of remotely sensed spectral information in forest variable estimation. urn:[NBN:fi:aalto-201812146554](http://urn.fi/URN:NBN:fi:aalto-201812146554)
+
+Pham, P. (2019) Deep learning methods for modelling forest biomass and structures from hyperspectral imagery. urn:[NBN:fi:aalto-201906234142](http://urn.fi/URN:NBN:fi:aalto-201906234142)
+
+Cu, T. (2021) Prediction of forest variables and its reliability with a hyperspectral deep learning model. urn:[NBN:fi:aalto-202108298608](http://urn.fi/URN:NBN:fi:aalto-202108298608)
+
+Bin Shafaat, A. (2021) Data-Efficient Vision Transformer for modeling forest biomass and tree structures from hyperspectral imagery. urn:[NBN:fi:aalto-202110249767](http://urn.fi/URN:NBN:fi:aalto-202110249767)
+
