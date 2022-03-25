@@ -44,6 +44,8 @@ Halme, E., Ihalainen, O., Korpela, I. & Mõttus, M. (2022) Assessing spatial var
 
 Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2022) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). IEEE Transactions on Geoscience and Remote Sensing, doi:[10.1109/TGRS.2022.3141217](https://dx.doi.org/10.1109/TGRS.2022.3141217).
 
+Anwer, R. M., Khan, F. S. & Laaksonen, J. (2021) Compact deep color features for remote sensing scene classification. Neural Processing Letters (53) 1523-1544, doi:10.1007/s11063-021-10463-4.
+
 Mõttus, M., Molinier, M., Halme, E., Cu, H., Laaksonen, J. (2021). Patch size selection for analysis of sub-meter resolution hyperspectral imagery of forests. 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, July 11–16, 2035-2038, doi:[10.1109/IGARSS47720.2021.9554257](https://dx.doi.org/10.1109/IGARSS47720.2021.9554257).
 
 Markiet, V. & Mõttus, M. (2020). Estimation of boreal forest floor reflectance from airborne hyperspectral data. Remote Sensing of Environment, 249, 112018, doi:[10.1016/j.rse.2020.112018](https://dx.doi.org/10.1016/j.rse.2020.112018).
@@ -58,4 +60,4 @@ Liu, W., Atherton, J. Mõttus, M., Gastellu-Etchegorry, J.-P., Malenovský, Z., 
 
 Molinier, M. & Kilpi, J. (2019) Avoiding Overfitting When Applying Spectral-Spatial Deep Learning Methods On Hyperspectral Images With Limited Labels. In Proc. of International Geoscience and Remote Sensing Symposium (IGARSS) 2019, Yokohama, Japan, 5049-5052, doi:[10.1109/IGARSS.2019.8900328](https://dx.doi.org/10.1109/IGARSS.2019.8900328)
 
-
+Anwer, R. M., Khan, F. S., van de Weijer, J., Laaksonen, J. & Molinier, M. (2021) Binary Patterns Encoded Convolutional Neural Networks for Texture Recognition and Remote Sensing Scene Classification. ISPRS Journal of Photogrammetry and Remote Sensing, 138, 74–85, doi:[10.1016/j.isprsjprs.2018.01.023](https://doi.org/10.1016/j.isprsjprs.2018.01.023).
