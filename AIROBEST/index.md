@@ -40,9 +40,11 @@ Mõttus, M., Cu, H., Halme, E., Laaksonen, J.,  Molinier, M., & Pham, P. (2021).
 
 
 ### Publications
-Halme, E., Ihalainen, O., Korpela, I. & Mõttus, M. (2022) Assessing spatial variability and estimating mean crown diameter in boreal forests using variograms and amplitude spectra of very-high-resolution remote sensing data, International Journal of Remote Sensing, 43, 349-369, doi:[10.1080/01431161.2021.2018148](https://dx.doi.org/10.1080/01431161.2021.2018148).
+Halme, E., Ihalainen, O., Korpela, I. & Mõttus, M. (2022). Assessing spatial variability and estimating mean crown diameter in boreal forests using variograms and amplitude spectra of very-high-resolution remote sensing data, International Journal of Remote Sensing, 43, 349-369, doi:[10.1080/01431161.2021.2018148](https://dx.doi.org/10.1080/01431161.2021.2018148).
 
-Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2022) Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). IEEE Transactions on Geoscience and Remote Sensing, doi:[10.1109/TGRS.2022.3141217](https://dx.doi.org/10.1109/TGRS.2022.3141217).
+Mõttus, M., Pham, P., Halme, E., Molinier, M. & Laaksonen, J. (2022). Hyperspectral imagery for forest parameter mapping: a demonstration with multitasking Deep Neural networks and spatially continuous reference data (TAIGA). IEEE Transactions on Geoscience and Remote Sensing, doi:[10.1109/TGRS.2022.3141217](https://dx.doi.org/10.1109/TGRS.2022.3141217).
+
+Mõttus, M., Molinier, M., Halme, E., Cu, H., & Laaksonen, J. (2021). Patch size selection for analysis of sub-meter resolution hyperspectral imagery of forests. In 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS (pp. 9007-9010). IEEE Institute of Electrical and Electronic Engineers, 4 pp., doi: [10.1109/IGARSS47720.2021.9554257](https://doi.org/10.1109/IGARSS47720.2021.9554257).
 
 Anwer, R. M., Khan, F. S. & Laaksonen, J. (2021) Compact deep color features for remote sensing scene classification. Neural Processing Letters (53) 1523-1544, doi:[10.1007/s11063-021-10463-4](https://doi.org/10.1007/s11063-021-10463-4).
 
