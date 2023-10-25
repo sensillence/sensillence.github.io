@@ -11,7 +11,7 @@ The principal investigators  in the consortium implementing the consortium are
 * [Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen), [Aalto University](https://www.aalto.fi/en)
 
 # News
-* AI work in ARTISDIG [highlighted by the Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/)
+* AI work in ARTISDIG [highlighted by the Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/) (in Finnish)
 
 # Research goals in brief
 
