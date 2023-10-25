@@ -1,7 +1,7 @@
 # ARTISDIG project
 
 The project *Artificial Intelligence for Twinning the Diversity, Productivity and Spectral Signature of Forests* (ARTISDIG)
-is funded by the [Academy of Finland](https://www.aka.fi/en) for 2022-2024. The project consortium brings
+is funded by the [the Research Council of Finland](https://www.aka.fi/en) (recently known as Academy of Finland) for 2022-2024. The project consortium brings
 together experts of digital twins and remote sensing (VTT), forest sciences and statistical analyses (Natural
 Resource Institute Finland), and Artificial Intelligence (AI) and vegetation spectroscopy (Aalto University).
 The principal investigators  in the consortium implementing the consortium are
@@ -9,6 +9,9 @@ The principal investigators  in the consortium implementing the consortium are
 * [Jorma Laaksonen](https://people.aalto.fi/jorma.laaksonen), [Aalto University](https://www.aalto.fi/en)
 * [Mari Myllymäki](https://www.luke.fi/henkilosto/mari-myllymaki/), [Natural Resources Institute Finland (Luke)](https://www.luke.fi/en)
 * [Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen), [Aalto University](https://www.aalto.fi/en)
+
+# News
+* AI work in ARTISDIG [highlighted by the Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/)
 
 # Research goals in brief
 
