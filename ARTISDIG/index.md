@@ -81,4 +81,21 @@ PI: Matti Mõttus (VTT)
 The current implementation of Forest DTE Precursor contains the forest productivity model Preles (which computing gross primary production), coupled with a growth model CROBAS (which computes autotrophic respiration and litter production), called together PreBas. Soil processes are accounted for using the YASSO soil model. The key input variables for the models are basic forestry variables (incl. main tree species and site fertility), daily temperature, water vapor pressure deficit, photosynthetic photon flux density and precipitation (mm). The final goal of ARTISDIG is to integrate the results of the first three WPs into the digital twin infrastructure, allowing spatially explicit determination of forest diversity and its effect on forest functioning ond productivity. To improve processing speed, the existing modeling chain will be replaced with an AI-based emulator tool, allowing to implement the computations quickly for a large geographic area at high spatial resolution.
 
 # Outcomes
-* the resulting papers, datasets and code will be listed here
+*Scientific journal papers*
+* Kostensalo, J., Mehtätalo, L., Tuominen, S., Packalen, P. and Myllymäki, M. (2023). Recreating structurally realistic tree maps with airborne laser scanning and ground measurements. Remote Sensing of Environmen 298, 113782, doi: [j.rse.2023.113782](https://doi.org/10.1016/j.rse.2023.113782).
+* Myllymäki, M., Tuominen, S., Kuronen, M., Packalen, P. and Kangas, A. (2023). The relationship between forest structure and naturalness in the Finnish national forest inventory. Forestry: An International Journal of Forest Research, cpad053, doi: [10.1093/forestry/cpad053](https://doi.org/10.1093/forestry/cpad053).
+* Halme, E. & Mõttus, M. (2023). Improved parametrisation of a physically-based forest reflectance model for retrieval of boreal forest structural properties. Silva Fennica, 57, 22028, doi: [10.14214/sf.22028]/https://doi.org/10.14214/sf.22028).
+* Gopalakrishnan, R., Korhonen, L., Mõttus, M., Rautiainen, M., Hovi, A., Mehtätalo, L., Maltamo, M., Peltola, H. & Packalen, P. (2023). Evaluation of a forest radiative transfer model using an extensive boreal forest inventory database. Science of Remote Sensing, 8, 100098, doi: [10.1016/j.srs.2023.100098](https://doi.org/10.1016/j.srs.2023.100098).
+
+*Data Sets*
+* Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
+* Mercier et al. (2023a). Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, doi: [https://10.17632/3bkrwhk4p3.1](10.17632/3bkrwhk4p3.1)
+* Juola et al. (2022) Stem reflectance spectra for standing dead Scots pine trees, doi: [https://doi.org/10.17632/8dvx3vvvk9.1](10.17632/8dvx3vvvk9.1).
+* Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](10.17632/dddb2prk4p.1)
+
+*Conference presentations*
+* Kostensalo, J. et al., "Recreating structurally representative tree maps with remote sensing and ground measurements",  13th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 16.-19.5.2022 (talk 25 min)
+* -"- ForestSAT, Berlin/online 29.8.-3.9.2022 (poster)
+* -"- INFOBIOM (The Nordic Network for Integrated Forest Resource and Biodiversity Monitoring) Oslo, Norway 24.-25.11.2023 (talk 15 min) 
+* -"- IBFRA Conference Helsinki 28.-31.8.2023 (talk 15 min)
+
