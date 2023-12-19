@@ -84,18 +84,22 @@ The current implementation of Forest DTE Precursor contains the forest productiv
 *Scientific journal papers*
 * Kostensalo, J., Mehtätalo, L., Tuominen, S., Packalen, P. and Myllymäki, M. (2023). Recreating structurally realistic tree maps with airborne laser scanning and ground measurements. Remote Sensing of Environmen 298, 113782, doi: [j.rse.2023.113782](https://doi.org/10.1016/j.rse.2023.113782).
 * Myllymäki, M., Tuominen, S., Kuronen, M., Packalen, P. and Kangas, A. (2023). The relationship between forest structure and naturalness in the Finnish national forest inventory. Forestry: An International Journal of Forest Research, cpad053, doi: [10.1093/forestry/cpad053](https://doi.org/10.1093/forestry/cpad053).
-* Halme, E. & Mõttus, M. (2023). Improved parametrisation of a physically-based forest reflectance model for retrieval of boreal forest structural properties. Silva Fennica, 57, 22028, doi: [10.14214/sf.22028]/https://doi.org/10.14214/sf.22028).
+* Halme, E. & Mõttus, M. (2023). Improved parametrisation of a physically-based forest reflectance model for retrieval of boreal forest structural properties. Silva Fennica, 57, 22028, doi: [10.14214/sf.22028](https://doi.org/10.14214/sf.22028).
 * Gopalakrishnan, R., Korhonen, L., Mõttus, M., Rautiainen, M., Hovi, A., Mehtätalo, L., Maltamo, M., Peltola, H. & Packalen, P. (2023). Evaluation of a forest radiative transfer model using an extensive boreal forest inventory database. Science of Remote Sensing, 8, 100098, doi: [10.1016/j.srs.2023.100098](https://doi.org/10.1016/j.srs.2023.100098).
 
 *Data Sets*
 * Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
-* Mercier et al. (2023a). Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, doi: [https://10.17632/3bkrwhk4p3.1](10.17632/3bkrwhk4p3.1)
-* Juola et al. (2022) Stem reflectance spectra for standing dead Scots pine trees, doi: [https://doi.org/10.17632/8dvx3vvvk9.1](10.17632/8dvx3vvvk9.1).
-* Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](10.17632/dddb2prk4p.1)
+* Mercier et al. (2023a). Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, doi: [10.17632/3bkrwhk4p3.1](https://doi.org/10.17632/3bkrwhk4p3.1)
+* Juola et al. (2022) Stem reflectance spectra for standing dead Scots pine trees, doi: [10.17632/8dvx3vvvk9.1](https://doi.org/10.17632/8dvx3vvvk9.1).
+* Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
 
 *Conference presentations*
 * Kostensalo, J. et al., "Recreating structurally representative tree maps with remote sensing and ground measurements",  13th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 16.-19.5.2022 (talk 25 min)
 * -"- ForestSAT, Berlin/online 29.8.-3.9.2022 (poster)
 * -"- INFOBIOM (The Nordic Network for Integrated Forest Resource and Biodiversity Monitoring) Oslo, Norway 24.-25.11.2023 (talk 15 min) 
 * -"- IBFRA Conference Helsinki 28.-31.8.2023 (talk 15 min)
+* Halme, E. et al. Retrieving boreal forest structure from remote sensing data with a reflectance model and machine learning methods. IBFRA Conference Helsinki 28.-31.8.2023 (poster)
+* Halme, E. & Mõttus, M. Improvements in forest reflectance modelling enabled by new hyperspectral in situ measurements. ForestSAT 2022, Berlin 29.8.-3.9 (oral presentation)
+* M. Mõttus et al. Towards a Digital Twin of the Earth's Forests. ForestSAT 2022, Berlin 29.8.-3.9 (oral)
+* M. Mõttus et al. Towards a Digital Twin of the Earth's Forests. Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
 
