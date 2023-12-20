@@ -94,12 +94,15 @@ The current implementation of Forest DTE Precursor contains the forest productiv
 * Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
 
 *Conference presentations*
-* Kostensalo, J. et al., "Recreating structurally representative tree maps with remote sensing and ground measurements",  13th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 16.-19.5.2022 (talk 25 min)
+* Kostensalo, J. et al. "Recreating structurally representative tree maps with remote sensing and ground measurements",  13th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 16.-19.5.2022 (talk 25 min)
 * -"- ForestSAT, Berlin/online 29.8.-3.9.2022 (poster)
 * -"- INFOBIOM (The Nordic Network for Integrated Forest Resource and Biodiversity Monitoring) Oslo, Norway 24.-25.11.2023 (talk 15 min) 
 * -"- IBFRA Conference Helsinki 28.-31.8.2023 (talk 15 min)
-* Halme, E. et al. Retrieving boreal forest structure from remote sensing data with a reflectance model and machine learning methods. IBFRA Conference Helsinki 28.-31.8.2023 (poster)
-* Halme, E. & Mõttus, M. Improvements in forest reflectance modelling enabled by new hyperspectral in situ measurements. ForestSAT 2022, Berlin 29.8.-3.9 (oral presentation)
-* M. Mõttus et al. Towards a Digital Twin of the Earth's Forests. ForestSAT 2022, Berlin 29.8.-3.9 (oral)
-* M. Mõttus et al. Towards a Digital Twin of the Earth's Forests. Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
+* Mari Myllymäki "Forest structure and naturalness in the Finnish national forest inventory",  INFOBIOM (The Nordic Network for Integrated Forest Resource and Biodiversity Monitoring) Oslo, Norway 24.-25.11.2023 (talk)
+* Mari Myllymäki "Creating countrywide tree maps with ITD and bootstrapping", The 14th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 23.-25.5.2023, Grenoble, France (poster)
+* Mari Myllymäki "Structure of natural and non natural forests in the Finnish national forest inventory (NFI) data", IBFRA Conference Helsinki 28.-31.8.2023 (talk)
+* Halme, E. et al. "Retrieving boreal forest structure from remote sensing data with a reflectance model and machine learning methods". IBFRA Conference Helsinki 28.-31.8.2023 (poster)
+* Halme, E. & Mõttus, M. Improvements" in forest reflectance modelling enabled by new hyperspectral in situ measurements", ForestSAT 2022, Berlin 29.8.-3.9 (oral presentation)
+* M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", ForestSAT 2022, Berlin 29.8.-3.9 (oral)
+* M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
 
