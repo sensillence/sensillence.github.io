@@ -105,7 +105,7 @@ The list will be updated stochastically during the course of the project
 * Mari Myllymäki "Creating countrywide tree maps with ITD and bootstrapping", The 14th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 23.-25.5.2023, Grenoble, France (poster)
 * Mari Myllymäki "Structure of natural and non natural forests in the Finnish national forest inventory (NFI) data", IBFRA Conference Helsinki 28.-31.8.2023 (talk)
 * Halme, E. et al. "Retrieving boreal forest structure from remote sensing data with a reflectance model and machine learning methods". IBFRA Conference Helsinki 28.-31.8.2023 (poster)
-* Halme, E. & Mõttus, M. Improvements" in forest reflectance modelling enabled by new hyperspectral in situ measurements", ForestSAT 2022, Berlin 29.8.-3.9 (oral presentation)
+* Halme, E. & Mõttus, M. "Improvements in forest reflectance modelling enabled by new hyperspectral in situ measurements", ForestSAT 2022, Berlin 29.8.-3.9 (oral presentation)
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", ForestSAT 2022, Berlin 29.8.-3.9 (oral)
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
 
