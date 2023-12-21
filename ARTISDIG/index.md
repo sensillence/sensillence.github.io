@@ -90,6 +90,11 @@ The list will be updated stochastically during the course of the project
 * Halme, E. & Mõttus, M. (2023). Improved parametrisation of a physically-based forest reflectance model for retrieval of boreal forest structural properties. Silva Fennica, 57, 22028, doi: [10.14214/sf.22028](https://doi.org/10.14214/sf.22028).
 * Gopalakrishnan, R., Korhonen, L., Mõttus, M., Rautiainen, M., Hovi, A., Mehtätalo, L., Maltamo, M., Peltola, H. & Packalen, P. (2023). Evaluation of a forest radiative transfer model using an extensive boreal forest inventory database. Science of Remote Sensing, 8, 100098, doi: [10.1016/j.srs.2023.100098](https://doi.org/10.1016/j.srs.2023.100098).
 
+*Scientific conference papers*
+* Chudasama, Y., Muhammad, U. and Laaksonen J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Forestry Applications. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium.
+* Guiotte, F., Kostensalo, J. and Laaksonen J. (2024). Foresty Variable Prediction with Multiresolution Hyperspectral and Panchromatic Inputs. Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium. 
+* Mäyrä, V. and Laaksonen J. (2024). Foresty Variable Prediction with Multiresolution Hyperspectral and Panchromatic Inputs. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium.
+
 *Data Sets*
 * Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
 * Mercier et al. (2023a). Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, doi: [10.17632/3bkrwhk4p3.1](https://doi.org/10.17632/3bkrwhk4p3.1)
