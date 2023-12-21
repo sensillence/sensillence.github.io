@@ -91,9 +91,9 @@ The list will be updated stochastically during the course of the project
 * Gopalakrishnan, R., Korhonen, L., Mõttus, M., Rautiainen, M., Hovi, A., Mehtätalo, L., Maltamo, M., Peltola, H. & Packalen, P. (2023). Evaluation of a forest radiative transfer model using an extensive boreal forest inventory database. Science of Remote Sensing, 8, 100098, doi: [10.1016/j.srs.2023.100098](https://doi.org/10.1016/j.srs.2023.100098).
 
 *Scientific conference papers*
-* Chudasama, Y., Muhammad, U. and Laaksonen J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Forestry Applications. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium.
-* Guiotte, F., Kostensalo, J. and Laaksonen J. (2024). Foresty Variable Prediction with Multiresolution Hyperspectral and Panchromatic Inputs. Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium. 
-* Mäyrä, V. and Laaksonen J. (2024). Foresty Variable Prediction with Multiresolution Hyperspectral and Panchromatic Inputs. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium.
+* Chudasama, Y., Muhammad, U. and Laaksonen J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Forestry Applications. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
+* Guiotte, F., Kostensalo, J. and Laaksonen J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS). 
+* Mäyrä, V. and Laaksonen J. (2024). Foresty Variable Prediction with Multiresolution Hyperspectral and Panchromatic Inputs. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
 
 *Data Sets*
 * Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
