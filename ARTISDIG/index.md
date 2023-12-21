@@ -109,3 +109,6 @@ The list will be updated stochastically during the course of the project
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", ForestSAT 2022, Berlin 29.8.-3.9 (oral)
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
 
+*Visibility*
+* [Web article by Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/)
+
