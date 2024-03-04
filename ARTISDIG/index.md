@@ -117,3 +117,4 @@ The list will be updated stochastically during the course of the project
 *Visibility*
 * [Web article by Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/) [in Finnish]
 
+<img src="https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_funded_en.jpg" width=200> Euroopan unionin rahoittama – NextGenerationEU
