@@ -80,3 +80,4 @@ Cu, T. (2021) Prediction of forest variables and its reliability with a hyperspe
 
 Bin Shafaat, A. (2021) Data-Efficient Vision Transformer for modeling forest biomass and tree structures from hyperspectral imagery. Master of Science in Technology at Aalto University School of Science, Espoo, Finland. urn:[NBN:fi:aalto-202110249767](http://urn.fi/URN:NBN:fi:aalto-202110249767)
 
+<img src="https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_funded_en.jpg" width=200> Euroopan unionin rahoittama – NextGenerationEU
