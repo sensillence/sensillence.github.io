@@ -117,4 +117,6 @@ The list will be updated stochastically during the course of the project
 *Visibility*
 * [Web article by Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/) [in Finnish]
 
-<img src="./nextgeneu_en.jpg" width=200> This project has received funding from the European Union – NextGenerationEU instrument and is funded by the Academy of Finland under grant number348035
+<img src="./nextgeneu_en.jpg" width=200>
+
+This project has received funding from the European Union – NextGenerationEU instrument and is funded by the Academy of Finland under grant number348035
