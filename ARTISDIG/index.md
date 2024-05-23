@@ -119,4 +119,4 @@ The list will be updated stochastically during the course of the project
 
 <img src="./nextgeneu_en.jpg" width=200>
 
-This project has received funding from the European Union – NextGenerationEU instrument and is funded by the Academy of Finland under grant number348035
+This project has received funding from the European Union – NextGenerationEU instrument via the Research Council of Finland under grant number 348035
