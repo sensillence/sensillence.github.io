@@ -86,12 +86,18 @@ The list will be updated stochastically during the course of the project
 
 *Scientific journal papers*
 * Liu, W., Mõttus, M., Malenovský, Z., Shi, S., Alonso, L., Atherton J. & Porcar-Castell, A. (2024). An in situ approach for validation of canopy chlorophyll fluorescence radiative transfer models using the full emission spectrum. Remote Sensing of Environment (in press).
+* Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. (2025). Exploring the potential of SAR and terrestrial and airborne LiDAR in predicting forest floor spectral properties in temperate and boreal forests. Remote Sensing of Environment 316, 114486, doi: [j.rse.2024.114486](https://doi.org/j.rse.2024.114486)
+* Mercier A., Karlqvist S., Hovi A., Rautiainen M. (2024). Hyperspectral data of understory elements in boreal forests: In situ and laboratory measurements. Data in Brief, 11068, doi: [j.dib.2024.111068](https://doi.org/j.dib.2024.111068)
 * Ihalainen, O., Sandmann, T., Rascher, U. & Mõttus, M. (2024). Spectral invariant-based illumination correction for shaded and sunlit surfaces for close-range hyperspectral images. Remote Sensing of Environment, 315, 114467, doi: [10.1016/j.rse.2024.114467](https://doi.org/10.1016/j.rse.2024.114467).
 * Liu, W., Mõttus, M., Gastellu-Etchegorry, J.-P., Fang, H. & Atherton, J. (2024). Seasonal and vertical variation in canopy structure and leaf spectral properties determine the canopy reflectance of a rice field. Agricultural and Forest Meteorology, 355, 110132, doi: [10.1016/j.agrformet.2024.110132](https://doi.org/10.1016/j.agrformet.2024.110132).
 * Kostensalo, J., Mehtätalo, L., Tuominen, S., Packalen, P. and Myllymäki, M. (2023). Recreating structurally realistic tree maps with airborne laser scanning and ground measurements. Remote Sensing of Environmen 298, 113782, doi: [10.1016/j.rse.2023.113782](https://doi.org/10.1016/j.rse.2023.113782).
 * Myllymäki, M., Tuominen, S., Kuronen, M., Packalen, P. and Kangas, A. (2023). The relationship between forest structure and naturalness in the Finnish national forest inventory. Forestry: An International Journal of Forest Research, cpad053, doi: [10.1093/forestry/cpad053](https://doi.org/10.1093/forestry/cpad053).
 * Halme, E. & Mõttus, M. (2023). Improved parametrisation of a physically-based forest reflectance model for retrieval of boreal forest structural properties. Silva Fennica, 57, 22028, doi: [10.14214/sf.22028](https://doi.org/10.14214/sf.22028).
 * Gopalakrishnan, R., Korhonen, L., Mõttus, M., Rautiainen, M., Hovi, A., Mehtätalo, L., Maltamo, M., Peltola, H. & Packalen, P. (2023). Evaluation of a forest radiative transfer model using an extensive boreal forest inventory database. Science of Remote Sensing, 8, 100098, doi: [10.1016/j.srs.2023.100098](https://doi.org/10.1016/j.srs.2023.100098).
+
+*Manuscripts to be submitted to scientific journals*
+* Astola, H., Minunno, F., Kangas, A., Mõttus, M. (2025). Machine learning-based emulation of a forest growth and productivity model.
+* Sirro, L., Rajala, T., Myllymäki, M., Halme, E., Mõttus, M. (2025) Spatial Distribution of Tree Crown Locations in a Boreal Forest and its Effect on Spectral Reflectance.
 
 *Scientific conference papers*
 * Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. Submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
@@ -105,11 +111,15 @@ The list will be updated stochastically during the course of the project
 * Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
 
 *Conference presentations*
+* Mercier A., Karlqvist S., Hovi A., Rautiainen M."Boreal forest diversity through in situ and laboratory spectral measurements of understory elements". 4th International symposium on applied geoinformatics, 9-10.05.2024, Wroclaw, Poland (poster)
+* Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. "From canopy structure to forest floor: the potential of LiDAR and SAR sensors for predicting boreal forest floor spectral properties", 6th Winter Satellite Workshop, 17-19.01.2024, Espoo, Finland (oral presentation)
+* Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. "Prédiction des propriétés spectrales du sol forestier à partir de capteurs LiDAR et RSO dans les forêts tempérées et boréales ", 9th Scientific Conference of the Hyperspectral Group of the French Society for Photogrammetry and Remote Sensing, 30-31.05.2024, Rennes, France (oral presentation)
+* Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. "Prediction of Forest Floor Spectral Properties from LiDAR and SAR Sensors in Temperate and Boreal Forests", EARSeL (European Association of Remote Sensing Laboratories), 17-20.062024, Manchester, United Kingdom (oral presentation)
 * Mõttus, M., Halme, E., Ihalainen, O. "Use of spectral invariants for broadleaf tree species mapping in a boreal forest", 14th Workshop on Hyperspectral Image and Signal Processing: Evolution in REmote Sensing (WHISPERS), 9.11.12.2024 Helsinki, Finland.
 * Mõttus M. et al. "Digital Twin of the Earth’s forests: part of the Destination Earth initiative", Third Destination Earth User eXchange, Darmstadt, Germany 15.-16.10.2024 (poster).
 * Mõttus M. & Ovaskainen, O. "DestinE Data Lake Biodiversity Use Case", Third Destination Earth User eXchange, Darmstadt, Germany 15.-16.10.2024 (oral).
+* Halme, E., Ihalainen, O., Mõttus, M. "Identification of a Biodiversity Indicator Species in the Hyperspectral Signature of Boreal Forests", 13th EARSeL Imaging Spectrocopy Special Interest Group Workshop, Valencia, Spain 16.-19.4.2024 (oral) 
 * Mõttus, M., Astola, H., Halme, E., Minunno, F. "Machine learning of process-based models for DestinE forest digital twin",	IUFRO World Congress 2024, 24.-29.6.2024, Stockholm, Sweden (oral by poster)
-*  Halme, E., Ihalainen, O., Mõttus, M. Valencia
 * Kostensalo, J. et al. "Recreating structurally representative tree maps with remote sensing and ground measurements",  13th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 16.-19.5.2022 (talk 25 min)
 * -"- ForestSAT, Berlin/online 29.8.-3.9.2022 (poster)
 * -"- INFOBIOM (The Nordic Network for Integrated Forest Resource and Biodiversity Monitoring) Oslo, Norway 24.-25.11.2023 (talk 15 min) 
