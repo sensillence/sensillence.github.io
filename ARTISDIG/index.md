@@ -98,7 +98,9 @@ The list will be updated stochastically during the course of the project
 
 *Manuscripts to be submitted to scientific journals*
 * Astola, H., Minunno, F., Kangas, A., Mõttus, M. (2025). Machine learning-based emulation of a forest growth and productivity model.
-* Sirro, L., Rajala, T., Myllymäki, M., Halme, E., Mõttus, M. (2025) Spatial Distribution of Tree Crown Locations in a Boreal Forest and its Effect on Spectral Reflectance.
+* Sirro, L., Rajala, T., Myllymäki, M., Halme, E., Mõttus, M. (2025). Spatial Distribution of Tree Crown Locations in a Boreal Forest and its Effect on Spectral Reflectance.
+* Halme, E. and Mõttus, M. (2025). Hybrid regression method to predict forest variables from Earth observation data in boreal forests
+
 
 *Scientific conference papers*
 * Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. Submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
