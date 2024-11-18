@@ -103,9 +103,8 @@ The list will be updated stochastically during the course of the project
 
 
 *Scientific conference papers*
-* Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. Submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
-* Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS). 
-* Mäyrä, V. and Laaksonen, J. (2024). Forestry Variable Prediction with Multiresolution Hyperspectral, RGB and Panchromatic Inputs. To be submitted to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
+* Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/162217710/A_Comparison_of_Hyperspectral_Super-Resolution_Techniques_for_Boreal_Forest_Imagery.pdf]
+* Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/161252040/Mesh_Surface_And_Morphological_Hierarchies_For_Individual_Tree_Detection_And_Segmentation_From_LiDAR_Data.pdf]
 
 *Data Sets*
 * Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
@@ -134,6 +133,7 @@ The list will be updated stochastically during the course of the project
 * Halme, E. & Mõttus, M. "Improvements in forest reflectance modelling enabled by new hyperspectral in situ measurements", ForestSAT 2022, Berlin 29.8.-3.9 (oral presentation)
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", ForestSAT 2022, Berlin 29.8.-3.9 (oral)
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
+* Yuvrajsinh Chudasama, Ville Mäyrä, Usman Muhammad, Florent Guiotte, Jorma Laaksonen. "Hyperspectral Super-resolution with Deep Learning for Forestry Applications", 6th Winter Satellite Workshop, 17-19.01.2024, Espoo, Finland (oral presentation)
 
 *Visibility*
 * [Web article by Research Council of Finland](https://www.aka.fi/tietysti/teemat/tekoaly-teknologian-apuna/tekoalyn-ja-kaukokartoituksen-avulla-rakennetaan-metsan-digitaalista-kaksosta/) [in Finnish]
