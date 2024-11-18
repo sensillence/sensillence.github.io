@@ -134,9 +134,9 @@ The list will be updated stochastically during the course of the project
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", ForestSAT 2022, Berlin 29.8.-3.9 (oral)
 * M. Mõttus et al. "Towards a Digital Twin of the Earth's Forests", Living Planet Symposium 2022, Bonn 23.5-27.5 (oral presentation, presented by T. Häme)
 * Yuvrajsinh Chudasama, Ville Mäyrä, Usman Muhammad, Florent Guiotte, Jorma Laaksonen. "Hyperspectral Super-resolution with Deep Learning for Forestry Applications", 6th Winter Satellite Workshop, 17-19.01.2024, Espoo, Finland (oral presentation)
-* Florent Guiotte "Predicting tree species in the wild - Caractérisation des arbres par données LiDAR et hyperspectrales de la forêt boréale" Colloque scientifique du Groupe Hyperspectral de la Société Française de Photogrammétrie et de Télédétection, 30.5.2024, Rennes, France (oral presentation)
-* Yuvrajsinh Chudasama "A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery" IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
-* Florent Guiotte "Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR" IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
+* Florent Guiotte "Predicting tree species in the wild - Caractérisation des arbres par données LiDAR et hyperspectrales de la forêt boréale", Colloque scientifique du Groupe Hyperspectral de la Société Française de Photogrammétrie et de Télédétection, 30.5.2024, Rennes, France (oral presentation)
+* Yuvrajsinh Chudasama "A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
+* Florent Guiotte "Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
 
 
 *Visibility*
