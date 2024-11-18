@@ -137,6 +137,7 @@ The list will be updated stochastically during the course of the project
 * Florent Guiotte "Predicting tree species in the wild - Caractérisation des arbres par données LiDAR et hyperspectrales de la forêt boréale", Colloque scientifique du Groupe Hyperspectral de la Société Française de Photogrammétrie et de Télédétection, 30.5.2024, Rennes, France (oral presentation)
 * Yuvrajsinh Chudasama "A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
 * Florent Guiotte "Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
+* Ville Mäyrä "Forest variable predictions with hyperspectral inputs", AI Day 2024 + Nordic AI Meet, 21-22.10.2024, Helsinki, Finland (poster presentation)
 
 
 *Visibility*
