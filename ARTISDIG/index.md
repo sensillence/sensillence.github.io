@@ -85,6 +85,10 @@ The current implementation of Forest DTE Precursor contains the forest productiv
 The list will be updated stochastically during the course of the project
 
 *Scientific journal papers*
+
+* Rajala, T., Kangas, A. and Myllymäki, M. (2025) Computing Maps of Forest Structural Diversity: Aggregate Late. Preprint available at SSRN: https://ssrn.com/abstract=5119277 or http://dx.doi.org/10.2139/ssrn.5119277
+* Kostensalo, J., Packalen, P., Kuronen, M. Mehtätalo, L., Tuominen, S. and Myllymäki, Mari (2025). Large-Scale Tree-Level Mapping of Forest Structure Including Species Type with Remote Sensing Data and Ground Measurements. Preprint available at SSRN: https://ssrn.com/abstract=5124085 or http://dx.doi.org/10.2139/ssrn.5124085
+
 * Halme E. & Mõttus M. (2025). Hybrid regression method to predict forest variables from Earth observation data in boreal forests. European Journal of Remote Sensing, 58, 2462032, doi: [10.1080/22797254.2025.2462032](https://doi.org/10.1080/22797254.2025.2462032)
 * Mercier, A., Karlqvist, S., Hovi, A. & Rautiainen, M. (2024) Hyperspectral data of understory elements in boreal forests: In situ and laboratory measurements. Data in Brief. 57, 111068. doi: [10.1016/j.dib.2024.111068](https://doi.org/10.1016/j.dib.2024.111068).
 * Liu, W., Mõttus, M., Malenovský, Z., Shi, S., Alonso, L., Atherton J. & Porcar-Castell, A. (2025). An in situ approach for validation of canopy chlorophyll fluorescence radiative transfer models using the full emission spectrum. Remote Sensing of Environment, 316, doi: [10.1016/j.rse.2024.114490](https://doi.org/10.1016/j.rse.2024.114490).
@@ -118,7 +122,8 @@ The list will be updated stochastically during the course of the project
 * Mõttus, M., Halme, E., Ihalainen, O. "Use of spectral invariants for broadleaf tree species mapping in a boreal forest", 14th Workshop on Hyperspectral Image and Signal Processing: Evolution in REmote Sensing (WHISPERS), 9.11.12.2024 Helsinki, Finland.
 * Mõttus M. et al. "Digital Twin of the Earth’s forests: part of the Destination Earth initiative", Third Destination Earth User eXchange, Darmstadt, Germany 15.-16.10.2024 (poster).
 * Mõttus M. & Ovaskainen, O. "DestinE Data Lake Biodiversity Use Case", Third Destination Earth User eXchange, Darmstadt, Germany 15.-16.10.2024 (oral).
-* Halme, E., Ihalainen, O., Mõttus, M. "Identification of a Biodiversity Indicator Species in the Hyperspectral Signature of Boreal Forests", 13th EARSeL Imaging Spectrocopy Special Interest Group Workshop, Valencia, Spain 16.-19.4.2024 (oral) 
+* Halme, E., Ihalainen, O., Mõttus, M. "Identification of a Biodiversity Indicator Species in the Hyperspectral Signature of Boreal Forests", 13th EARSeL Imaging Spectrocopy Special Interest Group Workshop, Valencia, Spain 16.-19.4.2024 (oral)
+* Kostensalo, J., Mehtätalo, L., Tuominen, S., Packalen, P., Myllymäki, M. ”Recreating structurally realistic tree maps with airborne laser scanning and ground measurements” , IUFRO World Congress 2024, 24.-29.6.2024, Stockholm, Sweden (oral by poster)
 * Mõttus, M., Astola, H., Halme, E., Minunno, F. "Machine learning of process-based models for DestinE forest digital twin",	IUFRO World Congress 2024, 24.-29.6.2024, Stockholm, Sweden (oral by poster)
 * Kostensalo, J. et al. "Recreating structurally representative tree maps with remote sensing and ground measurements",  13th Workshop on Spatial Statistics and Image Analysis in Biology (SSIAB), 16.-19.5.2022 (talk 25 min)
 * -"- ForestSAT, Berlin/online 29.8.-3.9.2022 (poster)
