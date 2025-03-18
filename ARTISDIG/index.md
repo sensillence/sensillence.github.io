@@ -115,7 +115,7 @@ The list will be updated stochastically during the course of the project
 * Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
 
 *Conference presentations*
-* Mõttus, M., HAlme, E., Ihalainen 0. "Use of spectral invariants for broadleaf tree species mapping in a boreal forest". IEEE WHISPERS – 14th Workshop on Hyperspectral Image and Signal Processing: Evolution of Remote Sensing, 9-11.12.2024, Helsinki, Finland (poster)
+* Mõttus, M., Halme, E., Ihalainen 0. "Use of spectral invariants for broadleaf tree species mapping in a boreal forest". IEEE WHISPERS – 14th Workshop on Hyperspectral Image and Signal Processing: Evolution of Remote Sensing, 9-11.12.2024, Helsinki, Finland (poster)
 * Mercier A., Karlqvist S., Hovi A., Rautiainen M. "Boreal forest diversity through in situ and laboratory spectral measurements of understory elements". 4th International symposium on applied geoinformatics, 9-10.05.2024, Wroclaw, Poland (poster)
 * Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. "From canopy structure to forest floor: the potential of LiDAR and SAR sensors for predicting boreal forest floor spectral properties", 6th Winter Satellite Workshop, 17-19.01.2024, Espoo, Finland (oral presentation)
 * Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. "Prédiction des propriétés spectrales du sol forestier à partir de capteurs LiDAR et RSO dans les forêts tempérées et boréales ", 9th Scientific Conference of the Hyperspectral Group of the French Society for Photogrammetry and Remote Sensing, 30-31.05.2024, Rennes, France (oral presentation)
