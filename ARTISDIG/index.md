@@ -86,8 +86,8 @@ The list will be updated stochastically during the course of the project
 
 *Scientific journal papers*
 
-* Rajala, T., Kangas, A. and Myllymäki, M. (2025) Computing Maps of Forest Structural Diversity: Aggregate Late. Preprint available at SSRN: https://ssrn.com/abstract=5119277 or http://dx.doi.org/10.2139/ssrn.5119277
-* Kostensalo, J., Packalen, P., Kuronen, M. Mehtätalo, L., Tuominen, S. and Myllymäki, Mari (2025). Large-Scale Tree-Level Mapping of Forest Structure Including Species Type with Remote Sensing Data and Ground Measurements. Preprint available at SSRN: https://ssrn.com/abstract=5124085 or http://dx.doi.org/10.2139/ssrn.5124085
+* Rajala, T., Kangas, A. and Myllymäki, M. (2025) Computing Maps of Forest Structural Diversity: Aggregate Late. Preprint available at [SSRN](https://ssrn.com/abstract=5119277) or via the doi:[10.2139/ssrn.5119277](http://dx.doi.org/10.2139/ssrn.5119277)
+* Kostensalo, J., Packalen, P., Kuronen, M. Mehtätalo, L., Tuominen, S. and Myllymäki, Mari (2025). Large-Scale Tree-Level Mapping of Forest Structure Including Species Type with Remote Sensing Data and Ground Measurements. Preprint available at [SSRN](https://ssrn.com/abstract=5124085) or via the doi:[10.2139/ssrn.5124085](http://dx.doi.org/10.2139/ssrn.5124085)
 
 * Halme E. & Mõttus M. (2025). Hybrid regression method to predict forest variables from Earth observation data in boreal forests. European Journal of Remote Sensing, 58, 2462032, doi: [10.1080/22797254.2025.2462032](https://doi.org/10.1080/22797254.2025.2462032)
 * Mercier, A., Karlqvist, S., Hovi, A. & Rautiainen, M. (2024) Hyperspectral data of understory elements in boreal forests: In situ and laboratory measurements. Data in Brief. 57, 111068. doi: [10.1016/j.dib.2024.111068](https://doi.org/10.1016/j.dib.2024.111068).
