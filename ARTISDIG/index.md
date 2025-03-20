@@ -102,6 +102,7 @@ Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 * Gopalakrishnan, R., Korhonen, L., Mõttus, M., Rautiainen, M., Hovi, A., Mehtätalo, L., Maltamo, M., Peltola, H. & Packalen, P. (2023). Evaluation of a forest radiative transfer model using an extensive boreal forest inventory database. Science of Remote Sensing, 8, 100098, doi: [10.1016/j.srs.2023.100098](https://doi.org/10.1016/j.srs.2023.100098).
 
 *Manuscripts to be submitted to scientific journals*
+
 * Astola, H., Minunno, F., Kangas, A., Mõttus, M. (2025). Machine learning-based emulation of a forest growth and productivity model.
 * Sirro, L., Rajala, T., Myllymäki, M., Halme, E., Mõttus, M. (2025). Spatial Distribution of Tree Crown Locations in a Boreal Forest and its Effect on Spectral Reflectance.
 
@@ -116,12 +117,14 @@ Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 * Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/161252040/Mesh_Surface_And_Morphological_Hierarchies_For_Individual_Tree_Detection_And_Segmentation_From_LiDAR_Data.pdf]
 
 *Data Sets*
+
 * Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
 * Mercier et al. (2023a). Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, doi: [10.17632/3bkrwhk4p3.1](https://doi.org/10.17632/3bkrwhk4p3.1)
 * Juola et al. (2022) Stem reflectance spectra for standing dead Scots pine trees, doi: [10.17632/8dvx3vvvk9.1](https://doi.org/10.17632/8dvx3vvvk9.1).
 * Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
 
 *Conference presentations*
+
 * Mõttus, M., Halme, E., Ihalainen 0. "Use of spectral invariants for broadleaf tree species mapping in a boreal forest". IEEE WHISPERS – 14th Workshop on Hyperspectral Image and Signal Processing: Evolution of Remote Sensing, 9-11.12.2024, Helsinki, Finland (poster)
 * Mercier A., Karlqvist S., Hovi A., Rautiainen M. "Boreal forest diversity through in situ and laboratory spectral measurements of understory elements". 4th International symposium on applied geoinformatics, 9-10.05.2024, Wroclaw, Poland (poster)
 * Mercier A., Myllymäki M., Hovi A., Schraik D., Rautiainen M. "From canopy structure to forest floor: the potential of LiDAR and SAR sensors for predicting boreal forest floor spectral properties", 6th Winter Satellite Workshop, 17-19.01.2024, Espoo, Finland (oral presentation)
@@ -149,6 +152,8 @@ Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 * Yuvrajsinh Chudasama "A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
 * Florent Guiotte "Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7-12.7.2024, Athens, Greece (oral presentation)
 * Ville Mäyrä "Forest variable predictions with hyperspectral inputs", AI Day 2024 + Nordic AI Meet, 21-22.10.2024, Helsinki, Finland (poster presentation)
+* Ville Mäyrä, Florent Guiotte, Usman Muhammad, Lisa Mentzer, Jorma Laaksonen. "Forest variable predictions on varying
+spectral and spatial resolutions", 7th Winter Satellite Workshop, 21-23.1.2025, Espoo, Finland (poster presentation)
 
 
 *Visibility*
