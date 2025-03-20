@@ -82,13 +82,14 @@ The current implementation of Forest DTE Precursor contains the forest productiv
 
 ## Outcomes
 
-The list will be updated stochastically during the course of the project
+The list will be updated stochastically during and after the course of the project
 
 *Scientific journal papers*
 
+* Muhammad, U. and Laaksonen, J. (2025, submitted) Hybrid Deep Learning Model for Hyperspectral Image Super-resolution with Gradient-Aware Loss
+Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 * Rajala, T., Kangas, A. and Myllymäki, M. (2025) Computing Maps of Forest Structural Diversity: Aggregate Late. Preprint available at [SSRN](https://ssrn.com/abstract=5119277) or via the doi:[10.2139/ssrn.5119277](http://dx.doi.org/10.2139/ssrn.5119277)
 * Kostensalo, J., Packalen, P., Kuronen, M. Mehtätalo, L., Tuominen, S. and Myllymäki, Mari (2025). Large-Scale Tree-Level Mapping of Forest Structure Including Species Type with Remote Sensing Data and Ground Measurements. Preprint available at [SSRN](https://ssrn.com/abstract=5124085) or via the doi:[10.2139/ssrn.5124085](http://dx.doi.org/10.2139/ssrn.5124085)
-
 * Halme E. & Mõttus M. (2025). Hybrid regression method to predict forest variables from Earth observation data in boreal forests. European Journal of Remote Sensing, 58, 2462032, doi: [10.1080/22797254.2025.2462032](https://doi.org/10.1080/22797254.2025.2462032)
 * Mercier, A., Karlqvist, S., Hovi, A. & Rautiainen, M. (2024) Hyperspectral data of understory elements in boreal forests: In situ and laboratory measurements. Data in Brief. 57, 111068. doi: [10.1016/j.dib.2024.111068](https://doi.org/10.1016/j.dib.2024.111068).
 * Liu, W., Mõttus, M., Malenovský, Z., Shi, S., Alonso, L., Atherton J. & Porcar-Castell, A. (2025). An in situ approach for validation of canopy chlorophyll fluorescence radiative transfer models using the full emission spectrum. Remote Sensing of Environment, 316, doi: [10.1016/j.rse.2024.114490](https://doi.org/10.1016/j.rse.2024.114490).
@@ -105,6 +106,12 @@ The list will be updated stochastically during the course of the project
 * Sirro, L., Rajala, T., Myllymäki, M., Halme, E., Mõttus, M. (2025). Spatial Distribution of Tree Crown Locations in a Boreal Forest and its Effect on Spectral Reflectance.
 
 *Scientific conference papers*
+
+* Muhammad, U. and Laaksonen, J. (2025, submitted) A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution. The 25th International Conference on Digital Signal Processing (DSP 2025). (In review)
+* Muhammad, U. and Laaksonen, J. (2025, submitted) DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution. The 33rd European Signal Processing Conference (EUSIPCO 2025). (In review)
+* Muhammad, U., Mihaylova, L. and Laaksonen, J. (2025, submitted) Usman Muhammad, Lyudmila Mihaylova, and Jorma Laaksonen. Towards Lightweight Hyperspectral Image Super-Resolution with Depthwise Separable Dilated Convolutional Network. 2025 IEEE Statistical Signal Processing Workshop. (In review)
+
+* Mäyrä, V., Kostensalo, J., Guiotte, F. and Laaksonen J. (2025) Predictability of forest biodiversity variables on varying spectral and spatial resolutions. IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
 * Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/162217710/A_Comparison_of_Hyperspectral_Super-Resolution_Techniques_for_Boreal_Forest_Imagery.pdf]
 * Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/161252040/Mesh_Surface_And_Morphological_Hierarchies_For_Individual_Tree_Detection_And_Segmentation_From_LiDAR_Data.pdf]
 
