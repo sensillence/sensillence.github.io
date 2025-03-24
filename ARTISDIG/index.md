@@ -117,10 +117,10 @@ Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 
 *Data Sets*
 
-* Kuusinen, Nea; Lakaniemi, Emma; Hovi, Aarne; Rautiainen, Miina (2022), “Leaf spectra of four broadleaved deciduous tree species in Finland”, Mendeley Data, V1,, doi: [10.17632/3hswxj5nff.1](https://doi.org/10.17632/3hswxj5nff.1).
-* Mercier, Audrey; Karlqvist, Susanna; Hovi, Aarne; Rautiainen, Miina (2023), “Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle”, Mendeley Data, V1, doi: [10.17632/3bkrwhk4p3.1](https://doi.org/10.17632/3bkrwhk4p3.1)
-* Juola, Jussi; Rautiainen, Miina (2022), “A dataset of stem reflectance spectra for standing dead Scots pine trees”, Mendeley Data, V1, doi: [10.17632/8dvx3vvvk9.1](https://doi.org/10.17632/8dvx3vvvk9.1).
-* Mercier, Audrey; Karlqvist, Susanna; Hovi, Aarne; Rautiainen, Miina (2023), “Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood”, Mendeley Data, V1, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
+* Kuusinen, Nea; Lakaniemi, Emma; Hovi, Aarne; Rautiainen, Miina (2022), Leaf spectra of four broadleaved deciduous tree species in Finland, Mendeley Data, V1, doi: [10.17632/3hswxj5nff.1](https://doi.org/10.17632/3hswxj5nff.1).
+* Mercier, Audrey; Karlqvist, Susanna; Hovi, Aarne; Rautiainen, Miina (2023), Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, Mendeley Data, V1, doi: [10.17632/3bkrwhk4p3.1](https://doi.org/10.17632/3bkrwhk4p3.1)
+* Juola, Jussi; Rautiainen, Miina (2022), A dataset of stem reflectance spectra for standing dead Scots pine trees, Mendeley Data, V1, doi: [10.17632/8dvx3vvvk9.1](https://doi.org/10.17632/8dvx3vvvk9.1).
+* Mercier, Audrey; Karlqvist, Susanna; Hovi, Aarne; Rautiainen, Miina (2023), Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, Mendeley Data, V1, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
 
 *Conference presentations*
 
