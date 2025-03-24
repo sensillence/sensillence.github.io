@@ -114,11 +114,11 @@ Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 
 * Mäyrä, V., Kostensalo, J., Guiotte, F. and Laaksonen J. (2025) Predictability of forest biodiversity variables on varying spectral and spatial resolutions. IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
 * Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/162217710/A_Comparison_of_Hyperspectral_Super-Resolution_Techniques_for_Boreal_Forest_Imagery.pdf]
-* Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). [https://acris.aalto.fi/admin/files/161252040/Mesh_Surface_And_Morphological_Hierarchies_For_Individual_Tree_Detection_And_Segmentation_From_LiDAR_Data.pdf]
+* Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), doi: [10.1109/IGARSS53475.2024.10640418](https://doi.org/10.1109/IGARSS53475.2024.10640418) [preprint from Aalto](https://acris.aalto.fi/admin/files/161252040/Mesh_Surface_And_Morphological_Hierarchies_For_Individual_Tree_Detection_And_Segmentation_From_LiDAR_Data.pdf)
 
 *Data Sets*
 
-* Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [https://doi.org/10.17632/3hswxj5nff.1](10.17632/3hswxj5nff.1).
+* Kuusinen et al. (2022). Leaf spectra of four broadleaved deciduous tree species in Finland, doi: [10.17632/3hswxj5nff.1](https://doi.org/10.17632/3hswxj5nff.1).
 * Mercier et al. (2023a). Leaf spectra of alder buckthorn, common hazel and European fly honeysuckle, doi: [10.17632/3bkrwhk4p3.1](https://doi.org/10.17632/3bkrwhk4p3.1)
 * Juola et al. (2022) Stem reflectance spectra for standing dead Scots pine trees, doi: [10.17632/8dvx3vvvk9.1](https://doi.org/10.17632/8dvx3vvvk9.1).
 * Mercier et al. (2023b) Reflectance spectra of boreal forest floor elements: ferns, herbaceous plants and decaying wood, doi: [10.17632/dddb2prk4p.1](https://doi.org/10.17632/dddb2prk4p.1)
