@@ -111,8 +111,8 @@ Optimization. IEEE Geoscience and Remote Sensing Letters. (In review)
 * Muhammad, U. and Laaksonen, J. (2025) A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution. The 25th International Conference on Digital Signal Processing (DSP 2025).
 * Muhammad, U. and Laaksonen, J. (2025) DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution. The 33rd European Signal Processing Conference (EUSIPCO 2025).
 * Muhammad, U., Mihaylova, L. and Laaksonen, J. (2025) Usman Muhammad, Lyudmila Mihaylova, and Jorma Laaksonen. Towards Lightweight Hyperspectral Image Super-Resolution with Depthwise Separable Dilated Convolutional Network. 2025 IEEE Statistical Signal Processing Workshop.
-* Mäyrä, V., Kostensalo, J., Guiotte, F. and Laaksonen J. (2025) Predictability of forest biodiversity variables on varying spectral and spatial resolutions. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), doi: [10.1109/IGARSS55030.2025.11243073](https:/doi.org/10.1109/IGARSS55030.2025.11243073), [reprint from Aalto](https://acris.aalto.fi/admin/files/204092742/Predictability_of_Forest_Biodiversity_Variables_on_Varying_Spectral_and_Spatial_Resolutions.pdf)
-* Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), doi: [10.1109/IGARSS53475.2024.10640724](https:/doi.org/10.1109/IGARSS53475.2024.10640724), [reprint from Aalto](https://acris.aalto.fi/ws/portalfiles/portal/162217710/A_Comparison_of_Hyperspectral_Super-Resolution_Techniques_for_Boreal_Forest_Imagery.pdf)
+* Mäyrä, V., Kostensalo, J., Guiotte, F. and Laaksonen J. (2025) Predictability of forest biodiversity variables on varying spectral and spatial resolutions. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), doi: [10.1109/IGARSS55030.2025.11243073](https://doi.org/10.1109/IGARSS55030.2025.11243073), [reprint from Aalto](https://acris.aalto.fi/admin/files/204092742/Predictability_of_Forest_Biodiversity_Variables_on_Varying_Spectral_and_Spatial_Resolutions.pdf)
+* Chudasama, Y., Muhammad, U., Mäyrä, V., Guiotte, F. and Laaksonen, J. (2024). A Comparison of Hyperspectral Super-resolution Techniques for Boreal Forest Imagery. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), doi: [10.1109/IGARSS53475.2024.10640724](https://doi.org/10.1109/IGARSS53475.2024.10640724), [reprint from Aalto](https://acris.aalto.fi/ws/portalfiles/portal/162217710/A_Comparison_of_Hyperspectral_Super-Resolution_Techniques_for_Boreal_Forest_Imagery.pdf)
 * Guiotte, F., Kostensalo, J. and Laaksonen, J. (2024). Mesh Surface and Morphological Hierarchy for Individual Tree Detection from LiDAR. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), doi: [10.1109/IGARSS53475.2024.10640418](https://doi.org/10.1109/IGARSS53475.2024.10640418), [reprint from Aalto](https://acris.aalto.fi/ws/portalfiles/portal/161252040/Mesh_Surface_And_Morphological_Hierarchies_For_Individual_Tree_Detection_And_Segmentation_From_LiDAR_Data.pdf)
 
 *Data Sets*
@@ -161,5 +161,6 @@ spectral and spatial resolutions", 7th Winter Satellite Workshop, 21-23.1.2025, 
 <img src="./nextgeneu_en.jpg" width=200>
 
 This project has received funding from the European Union – NextGenerationEU instrument via the Research Council of Finland under grant number 348035
+
 
 
